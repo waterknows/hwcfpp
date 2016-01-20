@@ -1,0 +1,48 @@
+# Part 1: Question 1
+%matplotlib inline
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+df_crimes = pd.read_csv('Crimes.csv')
+
+# Part 1: Question 2 (I think we can only calculate how often a recorded crime result in arrest)
+(len(df_crimes[df_crimes['Arrest'] == True]))/(len(df_crimes))
+
+# Part 1: Question 3
+df_arrests=df_crimes[df_crimes['Arrest'] == True]
+group1=df_arrests.groupby(['Primary Type'])
+aggregate1=group1.agg(np.sum)
+aggregate1['Arrest'].idxmax()
+
+# Part 1: Question 4
+df_weapons=df_crimes[df_crimes['Primary Type'] == 'WEAPONS VIOLATION']
+df_weapons.insert(1,'Counts',1)
+group2=df_weapons.groupby(['District'])
+aggregate2=group2.agg(np.sum)
+aggregate2.loc[:,'Counts']
+
+# Part 1: Question 5
+Tuesday=df_crimes[df_crimes['Date'].str.contains('12/01/2015')|df_crimes['Date'].str.contains('12/08/2015')|df_crimes['Date'].str.contains('12/15/2015')|df_crimes['Date'].str.contains('12/22/2015')|df_crimes['Date'].str.contains('12/29/2015')]
+Wednesday=df_crimes[df_crimes['Date'].str.contains('12/02/2015')|df_crimes['Date'].str.contains('12/09/2015')|df_crimes['Date'].str.contains('12/16/2015')|df_crimes['Date'].str.contains('12/23/2015')|df_crimes['Date'].str.contains('12/30/2015')]
+Thursday=df_crimes[df_crimes['Date'].str.contains('12/03/2015')|df_crimes['Date'].str.contains('12/10/2015')|df_crimes['Date'].str.contains('12/17')|df_crimes['Date'].str.contains('12/24/2015')|df_crimes['Date'].str.contains('12/31/2015')]
+Friday=df_crimes[df_crimes['Date'].str.contains('12/04/2015')|df_crimes['Date'].str.contains('12/11/2015')|df_crimes['Date'].str.contains('12/18/2015')|df_crimes['Date'].str.contains('12/25/2015')|df_crimes['Date'].str.contains('01/01/2016')]
+Saturday=df_crimes[df_crimes['Date'].str.contains('12/05/2015')|df_crimes['Date'].str.contains('12/12/2015')|df_crimes['Date'].str.contains('12/19/2015')|df_crimes['Date'].str.contains('12/26/2015')|df_crimes['Date'].str.contains('01/02/2016')]
+Sunday=df_crimes[df_crimes['Date'].str.contains('12/06/2015')|df_crimes['Date'].str.contains('12/13/2015')|df_crimes['Date'].str.contains('12/20/2015')|df_crimes['Date'].str.contains('12/27/2015')|df_crimes['Date'].str.contains('01/03/2016')]
+Monday=df_crimes[df_crimes['Date'].str.contains('12/07/2015')|df_crimes['Date'].str.contains('12/14/2015')|df_crimes['Date'].str.contains('12/21/2015')|df_crimes['Date'].str.contains('12/28/2015')]
+Day=pd.DataFrame({'Day':['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'],'Number of Arrests':[len(Monday),len(Tuesday),len(Wednesday),len(Thursday),len(Friday),len(Saturday),len(Sunday)]})
+print(Day)
+Day.loc[Day['Number of Arrests'].idxmax('Day')]
+
+# Part 2: Question 6
+aggregate2.loc[:,'Counts'].plot (kind='barh')
+Day.plot (kind='barh')
+
+# Part 2: Question 7
+df_deceptive=df_crimes[df_crimes['Primary Type'] == 'DECEPTIVE PRACTICE']
+plt.scatter(df_deceptive['Latitude'],df_deceptive['Longitude'])
+
+# Part 3: Question 8
+beat=df_crimes.loc[:,['Beat','Arrest']]
+group3=beat.groupby(['Beat'])
+aggregate3=group3.agg(np.sum)
+aggregate3['Arrest'].plot(kind='hist')
