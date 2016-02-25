@@ -18,8 +18,8 @@ FROM hhandler;
 SELECT extract(year from receive_date) as year, count(*) as count
 FROM hhandler
 WHERE receive_date between '2011-01-01' and '2015-12-31' 
-GROUP BY extract(year from receive_date)
-ORDER BY year;
+GROUP BY 1
+ORDER BY 1;
 
 --Question 2: Evaluations
 --The cmecomp3 table contains a list of evaluations (inspections) of these handlers. See thedata dictionary here.
@@ -35,14 +35,15 @@ FROM cmecomp3
 WHERE found_violation_flag = 'Y';
 
 --(c) What proportion of evaluations found violations?
-SELECT 1478260::float / 2061000 as violation_proportion;
+SELECT sum((found_violation_flag='Y')::int):float/count(*)
+from cmecomp3;
 
 --(d) Which five handler_ids have been found in violation the most times? How many times? Also find these handlers' site names in the hhandlers table.
 --Aggregate by handler_id, and save in a temp table
 CREATE temp table h as (
 SELECT count(*) as count, handler_id
 FROM cmecomp3
-WHERE handler_id is not null
+WHERE found_violation_flag = 'Y'
 GROUP BY handler_id
 ORDER BY count DESC
 LIMIT 5
