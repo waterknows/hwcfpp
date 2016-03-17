@@ -1,0 +1,27 @@
+
+Venezuela has, among other things, two distinct attributes. It is the birthplace of Simon Bolivar, father of Latin America's independence movement and a symbol of revolution, liberation and unity. And it is an oil-rich country.
+As an iconic figure of the Latin American left, Hugo Chavez focused on Venezuela's two distinct attributes during 14 years of his rule. His anti-US diplomacy, alliance with Latin American leftists and efforts to build a socialist society in Venezuela made Chavez a remarkable leader and, to a large extent, changed the political landscape of Latin America. And despite many international media outlets' attempt to paint him as a controversial leader, he will remain a symbol of Venezuela and an important figure in the rise of the Latin American left.
+Chavez proposed to replace US hegemony with multilaterism and "Washington Consensus" with Bolivarianism, and his influence will continue to help drive Latin American countries on the path of development.
+Venezuela is now in political transition, which will test the political legacy of Chavez, who used his "oil diplomacy" and alliance with the Latin American leftist camp to pursue diversification in foreign relations. Whether his anti-American diplomacy, Bolivarian Alliance of the Americas and Caribbean oil plans will pass the test remains uncertain for two reasons.
+First, the Latin American integration plan advocated by Chavez is not sustainable in the long run because it depends on exporting Venezuelan oil to Latin American countries at a favorable price and provide them with other economic assistance, which have created a financial burden for Caracas.
+Second, the current political transition and future political changes in Venezuela will be critical political factors in changing its foreign policy.
+According to the Venezuelan constitution, the country has to hold the presidential election within 30 days of Chavez's death, and Nicolas Maduro, the acting president and Chavez's chosen successor, is widely expected to win it. And though domestic economic difficulties may prompt the new government to change some of its economic and foreign policies, they will not alter Venezuela's diversified diplomatic strategy, which will consolidate the unity and deepen the cooperation among Latin American countries and develop the strategic partnerships with China, Russia and other emerging powers.
+The influence of the US, Latin American countries and the Latin American left on Venezuela's political transition, however, cannot be ignored. But despite its declining influence in Latin America, the US is not likely to interfere much in Venezuela because the latter does not pose any substantial threat to US national security and its political transition is taking place under a democratic framework.
+Besides, the support of Latin American countries for Venezuela will offset the US' influence. And since the US needs to handle matters within the framework of the Organization of American States, it may not allow its rift with Venezuela to stop it from improving relations with the rest of Latin America.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

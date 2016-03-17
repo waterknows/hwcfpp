@@ -1,0 +1,54 @@
+
+Party acts to counter abuses, report Jiang Xueqing, Zhao Xu and Wang Shanshan in Beijing.
+The Chinese leadership has listed combating the abuse of power as a priority of its reforms.
+The problem has become such a cause for public and governmental concern that the leadership has decided to tighten restrictions on, and supervision of, the exercise of power by leading officials.
+
+
+
+
+
+
+
+
+
+
+
+The decision was taken during the Third Plenum of the 18th Central Committee of the Communist Party of China, held from Nov 9 to 12.
+
+The issue attracted worldwide attention during the trial of Bo Xilai, former Party secretary of Chongqing. On Sept 22, Bo was sentenced to life in prison after being found guilty of accepting bribes, embezzlement and abuse of power.
+The trial, one of the nation's highest-profile events in recent years, brought the career of an apparent rising star to a grinding halt.
+"Local Party secretaries have enjoyed an amazingly high level of power for many years," said Yan Jirong, a professor at Peking University's School of Government.
+"As kings of their own realms, they control all the local authority organs, including the People's Congress, the police, the courts, the procuratorator's office and the financial and personnel departments.
+"These organs help Party secretaries achieve their goals, but if they make a terrible blunder, nobody will correct their mistakes at the local level."
+For Fang Ning, director of the Institute of Political Science at the Chinese Academy of Social Sciences, the government's move is overdue.
+"In the past, we rarely talked about the restriction of power, although we had a lot of discussions about the supervision of power. The supervision of power comes from outside the core government and usually focuses on the integrity of officials. However, there is limited supervision of government actions. Very few checks are made to ensure the government doesn't overstep the mark in terms of certain policies and behavior. However, the government shares so little information with the public that it's difficult to ascertain whether that's the case or not. We need to divide power rationally within the Party and allow the different organs of authority to restrain one another," he said.
+The CPC, which has ruled the country since 1949, has acknowledged public opinion and is attempting to rectify the situation by dividing power into three categories: Decision making; policy implementation; and government supervision, said Fang.
+Investigations impeded
+To restrict power more effectively, top leaders will restructure the system to allow local commissions for discipline inspection to work more independently.
+The CPC Central Committee will appoint discipline inspectors directly to local commissions. Major inspectors will be selected by a high-level commission that will lead investigations into allegations of corrupt conduct involving local officials.
+"In the past, investigations into allegations of corruption were often impeded by local authorities. They were able to interfere because the discipline inspection commission had to work under the leadership of the local Party committee. However, after the reforms, the commission will be able to reject intervention by local Party committees and local government," said Ma Qingyu, a professor at the Chinese Academy of Governance.
+The central committee will also strive to improve judicial independence. The topic has dominated discussion of the legal reforms, because it has become a source of great public concern at a time when China's economic development has yet to be followed by commensurate progress in other spheres.
+To ensure justice in the courtrooms, the Party will establish a judicial system that's independent from local politicians and their administrations. The move is highly ambitious, and is aimed at preventing intervention in judicial decisions by governments below the provincial level, said Yang Xiaojun, deputy dean of the Department of Law of Beijing's Chinese Academy of Governance.
+Yang Weidong, a law professor at the academy, said the current system is incompatible with justice. "One of the fundamental problems is the encroachment of the seemingly all-encompassing administrative powers in the country's judicial system. It's not possible to provide judicial independence, or justice for that matter, without severing the numerous ties between the judiciary and the administration. Judging from the evidence available, though, the leadership has started to tackle this enormous challenge with laudable pragmatism."
+He was referring in part to a policy paper released at the end of the recent plenum. Thanks to the one taken in 1978, which set the tone for China's reform and opening-up, the "third plenary sessions" have been widely regarded as the launching pads for important policy changes that would have far-reaching and profound impact for the society as a whole.
+This year's session called for a wide range of reforms in a large number of areas, and the policy paper on the legal system is being seen as a public indication of the government's determination to improve the judicial system by identifying specific failings and offering concrete remedies.
+One of the failings being addressed is the undue influence local administrations have enjoyed in the courts as a result of the funding mechanism, according to Yang Weidong. Under the current system, lower-level local governments provide the funding for local courts, including payment of all legal staff, from their own coffers.
+"One of the new measures is the transfer of the funding of below-provincial level courts to the provincial governments, keeping city and county governments at arm's length. Keeping in mind that whoever holds the purse strings has the most say, this move has huge implications," he said.
+
+
+
+
+
+Previous Page
+1 2 3 4 Next Page
+
+Previous Page
+1 2 3 4 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

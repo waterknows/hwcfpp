@@ -1,0 +1,25 @@
+
+Hong Kong is one of the world's great metropolises, most travelers concur, and China sports the world's largest overall economy, most estimates agree. And so, if anything, when the two were reunified, it should have been a marriage made in political heaven.
+Until recently, in fact, the relationship seemed to be bobbing along rather swimmingly. In 1997, Beijing, after long negotiation, took back Hong Kong from London, which had bossed the place since mid-19th century. The territory's economy then soared, not a whole lot of people there seemed to miss the British rule terribly much, and on the whole the iconic "One Country, Two Systems" policy out of Beijing was playing out well enough.
+
+
+But recently anti-Beijing anger began swirling around the world's most spectacular harbor like a gathering typhoon. The agitation was over the specifics of the rules by which the territory's 2017 chief executive (CE) election would be held. Very briefly: Beijing would permit universal suffrage on condition that the nominating system produced only candidates who "loved China" (that is, more or less supported Beijing), whereas opponents inside Hong Kong wanted a completely open, free-swinging nomination process.
+To Beijing, that second option meant - logically anyway - the possibility of the election of even a separatist. That was far more "democracy" than Beijing could stomach. Rather like the US, it prefers election results that produce friends rather than enemies.
+The final rules and procedures of the 2017 CE election made it clear that while everyone can vote, not everybody can contest the polls. But instead of accepting this as a very unsurprising compromise, the pan-democracy supporters in Hong Kong went bonkers. And in this they went too far.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

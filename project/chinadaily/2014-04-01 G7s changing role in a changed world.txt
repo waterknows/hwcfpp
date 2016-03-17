@@ -1,0 +1,25 @@
+
+
+
+In response to Crimea's parliament voting to join Russia and a referendum that endorsed the decision, the G7 leaders threatened to sanction Russia and boycott the planned G8 Summit in Sochi. However, Russian President Vladimir Putin's response was very calm and composed, saying "if they don't want to come, they don't need to".
+Later on the G7 leaders held an emergency meeting at The Hague on the sidelines of the Third Nuclear Security Summit, claiming they will hold a G7 meeting in Brussels instead of attending the G8 meeting in Sochi and temporarily suspend their participation in the G8. Russian Foreign Minister Sergei Lavrov played down the G8 snub, saying "if our Western partners think that this format (the G8) has outlived itself, then so be it".
+The verbal battle between the G7 and Russia and the G7's scaling up of sanctions against Russia give food for thought about the role and status of the G7 in today's international arena. How much attractiveness does the G7 still have for Russia? And how much will Russia suffer if it is permanently expelled from the G8?
+After the collapse of the Soviet Union, the G7 rewarded Moscow for embarking on the path of democracy with a place in the group, namely the G7 + 1. Then in order to further draw Russia over to its side, the G7 was turned into the G8. But Russia was still treated as a "second-class citizen" in the group of major industrial countries and was shut out of talks on many important issues.
+The G7 is the world's top diplomatic and economic table, its GDP once accounted for about 50 percent of the world's total and its influence pervaded over almost all the world. The group once played a crucial role in dealing with many international issues. But with the changing times and the collective rise of emerging economies, the global balance of power is no longer always in favor of the rich club, and the world has entered into "an era of relative power", as the former French president Nicolas Sarkozy described it. The proportion of the G7's GDP in the world's total has fallen to 40 percent and as a saying goes, every dog has its day. When I participated in the Cancun meeting held in 1981 in Mexico, where eight developed countries and 12 developing countries had conversations, the United States and the other G7 members had absolute dominant rights. The developing countries had the right to speak, but their voices carried little weight. But with the establishing of the G7+1 and especially the founding of the G8+5 (Brazil, China, India, Mexico and South Africa) they started to dominate the topics and process of the two international groups.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

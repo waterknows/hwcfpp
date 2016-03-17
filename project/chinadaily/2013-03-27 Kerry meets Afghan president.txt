@@ -1,0 +1,44 @@
+
+United States Secretary of State John Kerry met with Afghan President Hamid Karzai on Tuesday, a day after they put on a show of unity as they tried to end recent bickering over anti-American comments made by the Afghan leader.
+Kerry also met on Tuesday at the US embassy in Kabul with participants in a US-backed women's entrepreneurship program. He heard a succession of concerns from businesswomen fearful of what the 2014 transition will mean not only for women and girls, but for Afghanistan's commerce in general.
+
+
+
+
+
+
+
+
+People gather near pieces of broken glass at the site of a suicide attack in Jalalabad on Tuesday. Taliban suicide bombers killed at least five policemen in Afghanistan's restive east, officials said, in a three-hour attack that coincided with a visit to the country by US Secretary of State John Kerry. [Photo/Agencies]
+
+
+
+
+Many advocates for women's rights worry that the departure of international troops will lead to a deterioration in conditions for women, who were denied basic rights such as education under Taliban rule.
+"After the transition happens, we are hoping for the same attention" as we get now, said Hassina Syed, who runs catering, construction and transportation firms. With the transition approaching "there is a lot of negative effect on the business sector," she told Kerry.
+Fate of prison
+
+Karzai had turned the fate of the Bagram prison and more than 3,000 detainees into a rallying cry for his push to take back sovereignty as the bulk of US-led combat troops prepare to leave by the end of next year after more than a decade of war.
+"Today was a good day for Afghanistan. Bagram prison was handed over to the Afghan government," Karzai told reporters at a joint news conference late on Monday. "Finally after many years of effort we have reached a deal."
+"The US is committed to an enduring partnership," Kerry said. "The US supports a strong and united Afghanistan."
+Kerry added that the US is committed to Afghanistan's sovereignty and won't let al-Qaida or the Taliban shake the commitment.
+Earlier this month, the Afghan president accused Washington of working in concert with the Taliban and his spokesman described the coalition's war effort as "aimless and unwise", triggering fury from Afghanistan's foreign backers.
+Responding to a storm of protests over the collusion allegations, Kerry said he was confident that Karzai "does not believe that the US has any interest except to see the Taliban come to the table to make peace". For his part, Karzai said: "I was interpreted as saying the US and Taliban are colluding, but I did not use this word."
+Afghan troops and police are gradually taking on responsibility for battling the Taliban as most of the 100,000 foreign troops prepare to exit by the end of 2014.
+
+
+
+
+Previous Page
+1 2 3 Next Page
+
+Previous Page
+1 2 3 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

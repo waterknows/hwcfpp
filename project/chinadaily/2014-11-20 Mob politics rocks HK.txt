@@ -1,0 +1,27 @@
+
+Frustrated that their illegal campaign is running out of steam, a group of radical "Occupy Central" protesters stormed the Legislative Council (LegCo) building early on Wednesday. This was in a desperate move to boost morale.
+An unruly mob of masked men clashed with police after breaking at least three glass doors in the early hours of Wednesday. Injuries were reported on both sides. The assault forced the legislature to cancel its Wednesday meetings.
+The premeditated attack on the legislature constitutes a blatant challenge to the rule of law. It is a criminal act no civilized society would tolerate.
+In the face of public outrage, leaders from the opposition camp, including those who have been maneuvering and instigating the "Occupy" movement, were quick to distance themselves from the incident. Rather than trying to dodge responsibility, they should now call off the illegal protests which have dragged on for weeks. After all, they are the ones who have sowed the seeds of lawlessness in Hong Kong society.
+The people of Hong Kong have long been known for their respect for law and order. The rule of law has been cherished by the society as one of the key cornerstones of the city's social stability and economic prosperity.
+But this has now been shaken to the core by the illegal "Occupy" campaign orchestrated by the opposition camp. To promote their unconstitutional demands, they jeopardized the well-being of society by blocking the city's main traffic arteries.
+To justify their illegal actions, key figures from the opposition camp have also deliberately distorted the notion of the rule of law. In defending "Occupy" protesters who had flouted court injunctions to clear the streets, "Occupy" initiator Benny Tai and opposition lawmaker Albert Ho - both law experts - have advocated the idea that citizens are free to break the law as long as they accept their punishments. Tai has also claimed that disobeying a civil court order poses no challenge to the rule of law.
+They are, in effect, encouraging people to take the law into their own hands. This idea of lawlessness and a warped notion of the rule of law have given rise to mob politics as evidenced by the attack on the LegCo building.
+Concerns over the "Occupy" campaign have been mainly focused on its potential damage to Hong Kong's economy. But the biggest damage of all is mob politics becoming even more prevalent.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

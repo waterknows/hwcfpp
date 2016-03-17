@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video by Wan Li/For China Daily. Click to watch on YouTube
+
+Democrat Bill de Blasio easily defeated Republican Joe Lhota on Tuesday with a projected 62 percent of the vote to become New York City's first new mayor in 12 years.
+In his concession speech, Republican opponent Joe Lhota urged his supporters to back de Blasio in solving New York's problems.
+De Blasio's victory was expected as polls showed him leading Lhota, the former head of the city's bus and subway transportation department, by 45 points last week. De Blasio, the city's former public advocate, will be the first Democratic mayor of the nation's largest city since 1989. He succeeds Michael Bloomberg, the billionaire who held the job for 12 years.
+De Blasio's campaign centered on what he called "a tale of two cities" theme: the wealthy and those living at or near the poverty level. He decried what he said was income inequality, called for increasing taxes on the rich to improve the city's school system and expanding affordable housing.
+The New York Times, which endorsed de Blasio's candidacy, said his campaign resonated with voters. "Nearly half of likely voters said Mr de Blasio's greatest strength was his ability to understand the needs and problems of people like them," a Times' story said last week.
+Meanwhile, Chinese American Margaret Chin was uncontested in her re-election as the District 1 representative to the New York City Council. Chin, a Democrat, was elected in 2009 to represent Chinatown in Lower Manhattan. Her campaign this year called for creating affordable housing in the Seward Park area near Chinatown, as well as more funding for public parks and plazas.
+In her first term, Chin spearheaded the creation of a Business Improvement District in Chinatown, which takes fees from businesses for extra sanitation efforts.
+On Election Day morning, Chin greeted residents at Confucius Plaza, a housing cooperative and a voting site in Manhattan's Chinatown, encouraging them to vote.
+"In New York City and the United States, democracy is about participation. For the Chinese community, if we want our voices to be heard, we have to come out and vote," Chin told China Daily.
+Voter turnout for the Chinese community is often low, which Chin said she attributes to a number of factors. It takes a long time to become a citizen with the right to vote, she said, and Election Day being on a workday makes it difficult for people to vote unless they submit absentee ballots. Chin said her campaign encouraged voters to send in absentee ballots if they could not make it to the polls.
+Chin said that having Chinese American John Liu as candidate for the mayoral race earlier in the year helped drive the Chinese vote, but she added that the community should be voting regardless. "What we want to encourage our community [to do] is that it doesn't matter if there's a Chinese candidate or not," she said. "Every time there's an election, you go out and vote, because every vote counts and that's important."
+Lester Chang, a coordinator at the Confucius Plaza polling site, estimated that about 1,200 people would vote there, compared to the 1,400 he said voted in the presidential election last year.
+amyhe@chinadailyusa.com
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

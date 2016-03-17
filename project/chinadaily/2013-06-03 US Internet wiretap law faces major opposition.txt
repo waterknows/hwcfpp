@@ -1,0 +1,20 @@
+ The US Federal Bureau of Investigation is stepping up its efforts to get broader authority to put "wiretaps" on the Internet to catch criminals and terrorists.
+But the move is drawing fire from civil liberties groups, technology firms and others who claim the effort could be counterproductive, harm online security and impose hefty costs on makers of hardware and software.
+US law enforcement has for years complained about the problem of "going dark", or being unable to monitor Internet communications in the same manner as wiretaps, for which officials get court orders to listen into telephone calls.
+US President Barack Obama said in a speech on May 23 that his administration is "reviewing the authorities of law enforcement, so we can intercept new types of communication".
+FBI General Counsel Andrew Weissmann said at a recent forum in Washington that it would be "a top priority this year" to get expanded authority to tap communications such as "Gmail, Google Voice (and) Dropbox".
+"The way we communicate today is not limited to telephone companies," Weissmann said. "What we don't have is the ability to go to court and require the recipient to effectuate the intercept. Most countries have that."
+The FBI can get a court order to monitor Internet communications under current law, and major companies such as Google Inc and Microsoft Corp may be able to comply.
+Technical capacity
+But many other firms lack the technical capacity to allow this kind of surveillance. The proposal under consideration, according to published reports, would require firms to enable government access or face hefty fines.
+The US administration has made no public proposal on wiretap authority, but even the hint of a change has sparked a heated response.
+Critics say such a move would be tantamount to giving the government a "backdoor" to every piece of hardware and software being used, which could be exploited by hackers, foreign governments or others.
+"It's an intentional security vulnerability that they hope will only be used by the good guys, but we have evidence that the bad guys use it too," said Joseph Hall, senior technologist at the Center for Democracy and Technology, a digital-rights organization.
+Hall said that to make the program work, law enforcement would need to get "all the encryption keys" for hardware and require software to be designed with so-called backdoor access, imposing new costs on technology firms.
+A CDT report endorsed by 20 security and technology experts underscored the problems with any new Internet surveillance authority. Mandating a virtual wiretap "is harmful", said Edward Felten, a Princeton University computer scientist who was among those endorsing the report.
+"The port makes it easier for attackers to capture the very same data that law enforcement wants," he said in a blog posting.
+"Better yet (for the intruder), the capability will be stealthy by design, making it difficult for the user to tell that anything is amiss," he added.
+"Beyond this, the mandate would make it harder for users to understand, monitor, and fix their own systems - which is bad for security."
+Bruce Schneier, a computer security and cryptography expert, said the proposal would be "horribly ineffective".
+"Mandating wiretap capability in vast swaths of software will render normal law-abiding people less secure, while allowing criminals and terrorists to disable the wiretap capability or use more secure products from other countries," he said.
+Agence France-Presse

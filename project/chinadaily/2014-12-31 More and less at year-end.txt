@@ -1,0 +1,46 @@
+
+
+
+
+
+
+
+
+
+This photo taken at 7:37 pm on Dec 29, 2014 shows dealers trying to get keys for new cars just sold at the door of an office at a car dealership in Shenzhen.Authorities in Shenzhen, one of China's most industrialized cities, announced at 5:40pm on Monday that the city would put a cap on sales of new cars with residents only permitted to acquire a new vehicle either by lottery or auction.Starting from 6 pm Monday, only 100,000 new car plates will be allocated per year, a number which includes 20,000 electric cars.Upon hearing the sudden announcement, local residents made good use of the window of 20 minutes to rush to dealerships to buy a car.[Photo/CFP]
+
+
+
+
+There are a thousand ways to do good things.
+And there are always difficult choices to be made when conflicting needs are involved.
+Several cities in the country have installed quota control mechanisms to limit automobile ownership in order to reduce air pollution.
+Citizens crave the convenience of owning a car. They also covet blue skies. Which is why there has been no major public resistance when local governments wanted to employ quota controls.
+But the way such decisions are made matters. Especially whether stake-holders are properly informed and their concerns listened to.
+Not every local government has done this exceptionally well. But with the lessons from both desirable and undesirable precedents, the city of Shenzhen could have done a much better job when introducing its own quota system.
+The government of Shenzhen has added another unwelcome footnote to the outgoing 2014 and is guaranteed to begin the new year with boos ringing in its ears.
+At 17:40 on Monday, the city made the surprise announcement that starting from 18:00, automobile purchases there would be subject to quota control. Which means from then on, local residents need to get a license plate either through the drawing of lots or through an auction before buying a car.
+But this was after the local government repeatedly denied "rumors" about the new policy, amid nationwide deliberations on restraining the government's latitude in imposing restraints on civil rights and properties.
+Shenzhen was once envied for its "Shenzhen speed". But the efficiency it displayed this time is despicable. It goes against all the city's claims to democracy and rule of law.
+The surprise new policy did serve the authorities' purpose of preventing panic buying. But its damage to government credibility is severe and permanent.
+That the government of Shenzhen has lied to its citizens, and imposed a substantial limit on individual rights and properties without any public consultations, even informing, local citizens in advance is typical of our self-willed local authorities.
+That Shenzhen is now a target of public ridicule only goes to show it has been no better in honoring official rhetoric of respect for the public.
+We have little doubt that, under the continuous pressure of the campaign against corruption and extravagance, public servants may continue to behave and distance from fraudulent practices in 2015 thanks to top-level emphasis on rule of law.
+Our keenest wish for the New Year, then, is that we see less of what happened in Shenzhen, and our governments become a little less wayward than they were in 2014.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

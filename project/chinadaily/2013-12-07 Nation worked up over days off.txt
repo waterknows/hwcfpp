@@ -1,0 +1,51 @@
+
+
+
+
+
+
+
+
+
+
+
+Dama dames: China's secret weapon
+
+
+
+
+
+Hit litterbugs with fines, not insults
+
+
+
+
+The debate over the length and sum of public holidays belies the deeper causes of a weak private sector and decisions that should be made below the national level.
+
+Calibrating the holiday schedule has been a discreet exercise in democracy, and people are realizing that there is no perfect choice, only an optimal one determined by a majority.
+The recent online vote on the 2014 schedule of China's public holidays was enlightening in many ways. Most of all, it shows there is give and take in every decision. Here are the three choices proposed by the National Holiday Office on Nov 27:
+Plan A: Chinese New Year (Spring Festival) will be seven days off, including four days from adjoining weekends. National Day (Oct 1) will have three days off, with no shuffling of weekends. New Year's Day, Qingming, Labor Day, and Duanwu and Mid-Autumn festivals will each be one day off. 
+
+
+
+Plan B: National Day will have five consecutive days off, including a weekend. The rest will be the same as Plan A.
+Plan C: Same as Plan A, except National Day, like the Spring Festival, will have seven days off, including four weekend days.
+Plan C received the majority of votes, varying from 50 percent to 60 percent on different websites, which, if adopted, means 2014 will be pretty much the same as 2013 in the arrangement of civic holidays.
+For more coverages by Raymond Zhou, click here
+
+
+
+
+Previous Page
+1 2 3 Next Page
+
+Previous Page
+1 2 3 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

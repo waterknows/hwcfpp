@@ -1,0 +1,33 @@
+
+The 2014 Words of the Year in China are "law" and "anti-corruption" while the Words of the Year worldwide are "lost" and "Malaysia Airlines", according to a decision of the National Language Resources Monitoring and Research Center, the Commercial Press and People's Daily released on Friday. 
+
+The judges evaluated words suggested by more than 230 million people online as most representative of 2014.
+The evaluation committee said "govern the country under rule of law" was the most important topic of the year, and the word "law" fully deserved the honor.
+"Malaysia Airlines" also topped many lists.
+"Law is the most important prerequisite for reform in different fields," the committee said. "When we talk about 'governance of the country', anti-corruption and environmental protection, we are talking about them under the rule of law."
+The committee thought the central government's anti-corruption campaign so far had raised public confidence in the country's future and also their lives, which really "injected positive energy into the whole society".
+At the same time people didn't give up on the lost MH370. "Malaysia Airlines" expressed the hope of people across the world for amiracle, the committee said.
+The organizers also released the Top 10 Catch-phrases, Top 10 Online Expressions and Top 10 New Expressions, including "APEC Blue", "Anti-Ebola" and "Ice Bucket Challenge".
+TOP 10 NEW EXPRESSIONS OF THE YEAR
+1. New normal
+The phrase "new normal" was highlighted at a recent meeting of the Political bureau of the CPC Central Committee to convey the idea that China needs to focus on the quality of its economic development and adapt to a new situation. The new normal will be the hit phrase in the next five years, reflecting the direction of our economic development. Reform and innovation will be the two pillars.
+－Chen Fengying, director of the Institute of World Economic Studies at the China Institutes of Contemporary International Relations.
+China is becoming the leader of global bilateral and multilateral free trade. In the next three to five years, the new normal of China's opening-up will be China having a greater voice in mapping out international rules. China will be a participant and one of the leaders in international governance.
+－Chi Fulin, president of the China Institute of Reform and Development and an adviser to the central government.
+
+
+
+
+Previous Page
+1 2 3 4 5 Next Page
+
+Previous Page
+1 2 3 4 5 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

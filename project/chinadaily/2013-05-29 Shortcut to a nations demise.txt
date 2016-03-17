@@ -1,0 +1,35 @@
+
+Former British prime minister William Ewart Gladstone once said that corruption is a shortcut to a nation's demise. To check the veracity of this statement, let us take a look at northern and southern Europe. 
+
+The global social trend is to build welfare states in which governments share part of citizens' living cost that include healthcare, child-care and education. Welfare expenditure takes up almost the same proportion of the state budgets of northern European countries such as Germany, Finland and Sweden, as well as southern European nations like Greece, Italy and Spain. But the financial crisis is more serious in southern European countries because of the difference in the degree of transparency in governance and corruption.
+For example, a corrupt government official causes much greater harm to a country than a corrupt accountant in a private company. And corrupt politicians, who take bribes and other favors to pass loose laws on social welfare management, are more dangerous than corrupt businessmen because they compromise the future of a country.
+Like many countries, the Republic of Korea, too, has been battling against corruption. After its foundation in 1948, the ROK adopted republican politics even though it had no experience of democracy and was devoid of an industrial foundation. Corruption among officials was rampant at that time, and the country was racked by embezzlement of goods and military supplies received from international agencies. Besides, smuggling, drug trafficking and election frauds were widespread.
+Though ROK authorities made efforts to eradicate corruption, ordinary people were too deeply engaged in the struggle to meet their basic needs to worry much about unscrupulous officials.
+The ROK entered the era of industrialization in 1961 under former president Park Chung-hee. During the period of state-dominated economic development, corruption revolved around payoffs by magnates to government officials because of the complex relationship among politicians, plutocrats and administrators. And despite launching anti-corruption drives such as "New Village Campaign", the ROK authorities could not eradicate this vicious social disease because many officials were corrupt.
+Related readings:
+Intra-Party inspections refocus on corruption
+
+Fight corruption with more zeal
+
+More than 2 of 5 corruption cases involved tips
+
+Informant webpages help gather corruption tip-offs
+
+New PLA plates part of anti-corruption drive
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

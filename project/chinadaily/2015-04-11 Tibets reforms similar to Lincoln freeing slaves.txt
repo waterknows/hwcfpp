@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+
+Shingtsa Tenzinchodrak (center), deputy to China's National People's Congress (NPC), briefs media in San Francisco on April 7, accompanied by NPC Tibetan deputies Gesang Renqing (left) and Ciwang Renzeng. Chang Jun / China Daily
+
+
+
+
+On March 28, 1959, the Chinese central government announced the dissolution of Tibet's local government after the latter staged an armed rebellion in order to retain the politico-religious serfdom in the region, and established the Tibet autonomous region organizing committee.
+With the support of all ethnic groups, the central government and the committee soon put down the revolt and launched a wide range of democratic reforms, which led to the abolition of the centuries-old serfdom, emancipating millions of serfs and slaves in the region. On Jan 19, 2009, the people's congress of the Tibet autonomous region, its legislature, passed a resolution setting March 28 as the annual commemorative day for the liberation of millions of serfs.
+The launching of the democratic reforms in 1959 is a milestone in Tibet's as well as human history, not least because it started the process of increased productivity in the region, and promoted equality and justice. It is on March 28, 1959, that Tibet began its journey from "darkness" to "light" and from autocracy to democracy.
+The democratic reforms started more than half a century ago added a new chapter to the history of civilization, progress and human rights. As such, it can be compared with the abolitionist movement in the United States in mid-19th century. But unlike the American abolitionist movement that was launched under the leadership of the emerging US bourgeoisie, the democratic campaign started against serfdom in Tibet in 1959 was on a smaller scale and led by the Chinese proletariat. Despite the differences in time and scale, the two events are milestones in the history of civilization and share many similarities.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

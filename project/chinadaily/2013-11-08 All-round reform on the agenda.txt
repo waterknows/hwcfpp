@@ -1,0 +1,31 @@
+
+Party plenum poised to take a key step in modern Chinese history, Tang Yue reports.
+China's long-awaited four-day Party plenum is strongly expected to mark another milestone in market-oriented reform.
+The Third Plenary Session of the 18th Communist Party of China Central Committee starts on Saturday.
+Historically, the third session has marked many turning points in modern China's economic structure.
+In 1978, the third plenum of the 11th CPC Central Committee unveiled the nation's reform and opening-up policy, as the Party shifted its focus from class struggle to economic reconstruction.
+Thirty-five years later, it is still the most frequently mentioned Party meeting, because the policies it adopted laid the foundation for China to become the world's second-largest economy.
+While the two previous third plenums focused on the "socialist market economy" and rural development, top Party leader Xi Jinping recently pledged a more comprehensive reform agenda.
+On Oct 29, the Political Bureau of the CPC Central Committee said that the document to be discussed, and almost certainly approved by the plenum, is named The Decision of the CPC Central Committee on Several Important Issues of Comprehensively Deepening Reform.
+On Nov 1, Premier Li Keqiang, a member of the Party's seven-man highest authority, for the first time disclosed part of the blueprint for reform. "Reforms of fiscal revenue, finance, pricing, enterprises, etc, will all be deepened," he said.
+Analysts expect further reform and streamlining by the government to reduce its intervention in the market.
+The plenary document will outline the direction for reforms in several fields. It will be followed by new, detailed regulations.
+The full document will be published in the days following the meeting. Five years ago, this took place eight days after the session ended.
+Find out more about this crucial, and possibly ground-breaking meeting, including the basics, the major reforms expected and notable third plenums.
+
+
+
+
+Previous Page
+1 2 3 4 5 6 Next Page
+
+Previous Page
+1 2 3 4 5 6 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

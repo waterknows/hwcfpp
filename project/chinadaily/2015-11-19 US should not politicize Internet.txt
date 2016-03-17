@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+
+People pose in front of a display showing the word 'cyber' in binary code, in this picture illustration taken in Zenica December 27, 2014. [Photo/Agencies]
+
+
+
+
+Security and other issues related to cyberspace have increasingly affected international relations, leading to a war of words among some major world powers. Openness and freedom are the two basic features of the Internet, through which information freely flows from one person to another and from one country to another, and that is why "freedom" is said to be the founding stone of cyberspace.
+But this freedom cannot be limitless and should not challenge the normal order of cyberspace. As Lu Wei, minister of the Cyberspace Administration of China, once said, freedom is the purpose while order serves to protect it. Freedom and regulation are not mutually contradictory. Instead, they are two sides of the same coin.
+Besides, since cyberspace, despite being called the virtual world, is intimately connected with the real world, chaos in the former can lead to disastrous consequences in the latter. The riots that rocked London, Birmingham and several other cities in the United Kingdom in 2011 after the death of a black UK citizen and flared up thanks to social networks are a good example of how lack of order in the virtual world can cause mayhem in the real world.
+To prevent such tragedies from happening and since all freedoms come with responsibilities and limits, most countries have enacted laws to regulate cyberspace. But some countries, to fulfill their narrow interests, try to politicize the laws that other countries have implemented as a safeguard against the bedlam the misuse of cyberspace could unleash on society.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

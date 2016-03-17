@@ -1,0 +1,24 @@
+
+Hong Kong's government called off a meeting with the leaders of the student "pro-democracy" protests that had been planned for Friday, because it would be "impossible to have a constructive dialogue" with them after they called for an increase in efforts to occupy main protest areas if concessions were not made by the government.
+The only surprise there is they seem to have harbored the belief that it was.
+The thousands of young people that have been gathering in the streets of Hong Kong and bringing the city to a standstill to protest the decision that the candidates for the chief executive election needed to be approved by the majority of a nominating committee are not old enough to know the political realities of past - and some might say too naive and self-absorbed to understand those of the present.
+The people living in Hong Kong when it was a British colony were more concerned about making money than building a nation, and they developed an above and apart identity that distanced them from their mainland compatriots. They adopted the same snobbish attitude to those they considered "less-fortunate" than themselves that their colonial masters displayed to them. This bred an attitude of distrust and superiority that is still evident today, as shown by the disdainful online comments pouring scorn on less Westernized visitors from the mainland.
+After reform and opening-up, some Hong Kong business people realized the best way to make money was to take advantage of the mainland's cheap labor and to position the city as the gateway to the mainland for overseas companies looking to do the same. This had the effect of reinforcing the established fault line between people in Hong Kong and the mainland, with the result that the default position of many young middle class in Hong Kong is to still try and set themselves above and apart by choosing to identify themselves as Hongkongers, as though this somehow makes them exceptional.
+Most of the Western media have peddled a similar line, except the fault line they have drawn is between the young, educated pro-democracy local Hongkongers and the older or as they portray them less well-educated supporters of the central government who they claim don't know what democracy is.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

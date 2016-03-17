@@ -1,0 +1,26 @@
+
+Each human being is different from any other, having a mix of strengths and weaknesses that are unique. In the same way, societies differ from each other, having evolved out of different historical circumstances.
+For example, in the 19th century, the British Empire was a source of pride in the United Kingdom, being a small island that took control of more than half the planet and converted its resources to its advantage. India's view on the same empire is different, for it saw its share in the global economy fall from 24 percent to less than 1 percent from 1820, when the British began to establish themselves in India, to 1947, the year they left.
+Similarly, the Opium Wars were a source of immense profit for UK merchants, helping huge conglomerates dominate business in Asia and elsewhere. However, for the Chinese people, the Opium Wars were a source of immense pain and the cause of social disintegration that was only reversed in 1949, when the Communist Party of China founded New China.
+The reality is that the European experience of colonialism has almost always been a zero-sum game, in which the other side lost heavily in order to ensure gains for the colonizing power. Which is why it is not reasonable for the West to demand that the rest of the world accept its version of history and economic and political doctrines. The circumstances in each non-Western country are very different from those in the West, which is why imposing a Western model would result in a less than optimal outcome.
+If China has made such great progress, especially since the 1980s, it is because the CPC rejected copying Western commercial institutions, creating instead a model that had a natural fit with Chinese experience and needs. Strangely, while admitting that the Chinese economic model has worked in China, where a purely Western version may have failed, some Western powers constantly criticize China for not adopting a fully Western model of democracy.
+Western powers ensured their dominance in the two previous centuries by control of territory. These days, they seek the same outcome by seeking to make other societies believe that following the advice given by them is the best course.
+In South America in the 1970s, much misery was caused precisely because governments there strictly followed the orders of the World Bank and the International Monetary Fund, both of which were, and still are, dominated by the West, with only a United States or an European Union national heading these so-called international organizations.
+Indeed, to the West, international means the West. The so-called international relations programs taught in the West, which are unfortunately so popular with affluent students in China and India, teach subjects solely through the prism of Western interests. Those passing out of such programs subconsciously begin to act and think in ways that promote Western interests, rather than that of their own countries. This is hardly surprising.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

@@ -1,0 +1,35 @@
+
+The biggest force that has emerged from the month-long civil disobedience movement in Thailand is the youth. The 20-something youths, complete with their smartphones with dozens of app, are no longer shying away from "irritating" social involvements. In other words, they are no longer detached from everyday reality.
+Over the past few weeks, they have done many things - held demonstrations and peace marches under the blazing afternoon sun, chanted slogans for hours and occupied government buildings. They have also tweeted and re-tweeted, and Instagrammed their photographs on Facebook.
+The students' movement reached its peak in 1973-76, which led to the overthrow of the Thanom-Praphat dictatorship and paved the way for a more democratic Thailand. The yearning for the same sort of active political engagement from students can be heard among the present group of protesters.
+
+
+
+
+
+ 
+Demonstrators marched across the Thai capital, calling for the toppling of Prime Minister Yingluck Shinawatra’s government.
+
+
+
+
+Although these youths still lack the sophistication of their predecessors like Theerayuth Boonme and Seksan Prasetkul in terms of political discourse and orientation, they share a common perception that unless they take part in the protests, they will become puppets and suffer the consequences of the ongoing political impasse.
+Civil society organizations have played an active role in sharpening and sustaining the protests. Well over 80,000 civil groups of various shades and colors with or without proper registration comprise the present demonstrators. Seldom have so many ideologically and functionally divergent groups come together to voice the same demands. What has united them are the amnesty bill, corruption charges and planned mega-spending schemes.
+On Monday, thousands of demonstrators occupied up to a dozen government buildings in Bangkok among which was the Army headquarters and the Finance Ministry. The latest demonstration follows weeks of street protests against an amnesty bill purported to allow the return of former prime minister Thaksin Shinawatra from exile and pardon those responsible for the Army's intervention in the protests of 2010. Even though Thailand's parliament rejected the amnesty bill, the demonstrators have refused to leave the streets until the government resigns. They say that the government of Prime Minister of Yingluck Shinawatra acts as a stooge for Thaksin Shinawatra.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

@@ -1,0 +1,47 @@
+
+
+
+
+
+
+
+
+
+Patricia Thornton, a lecturer in Chinese politics at Oxford University, says it is important to see China on its own terms. [Photo / China Daily]
+
+
+
+
+
+Country is no more or less stable than any other and all are in a state of flux
+Patricia Thornton believes many make the mistake of viewing China through a Western prism.
+The lecturer in Chinese politics at Oxford University says it is important, instead, to see the world's second-largest economy on its own terms.
+"Western political science generally uses research models that derive from Western experience and they often don't really map well in the Chinese context."
+The American academic says it is often assumed China will evolve from its Communist State-planned system to a Western liberal democracy as though this was some naturally-ordained trajectory.
+"For someone who studies Chinese politics you often feel you are trying to explain away that gap and you can then find yourself tangled up in some esoteric debates trying to explain why China's different," she says.
+Thornton, a sunny personality with an impressive academic reputation, says China's differences are at least recognized at Oxford, where she has been for the past five years.
+"What I found really refreshing about coming here to Oxford is the way the discipline of politics is constructed in the UK - and in Europe too - is different from the way it is constructed in the US.
+"Studying China here is connected to Oriental studies, focusing around a very intensive study of language, culture and philosophy as against the US, where it comes out of a social science tradition."
+Thornton was speaking in her study accessed by a narrow spiral wooden staircase in one of Merton College's ancient buildings.
+A popular figure at the college and known as Tia by everyone, Thornton says she is constructing a program at Oxford that assesses the Chinese system in its own context.
+"What I am trying to do is to build a program for students to study Chinese politics. Most political science starts with basically a deductive model, which is drawn largely from Western experience. When you plump it down really inelegantly in the Chinese case, China does not seem to measure up. It becomes either an imperfect or an outlying case," she says.
+She says that building such a program means staying away from presumptions that the Chinese government just resembles other Communists systems.
+"It is about discovering what Chinese intellectuals, Chinese scholars and, indeed, Chinese people say about themselves. This way you can begin to build up a more generalized understanding of certain mechanisms, goals and processes that exist within China. Ultimately the goal is then to reverse the position and say why the West differs from the Chinese example," she says.
+Thornton, who is originally from New York, says her fascination with China dates back to her childhood in the United States.
+
+
+
+
+Previous Page
+1 2 3 Next Page
+
+Previous Page
+1 2 3 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

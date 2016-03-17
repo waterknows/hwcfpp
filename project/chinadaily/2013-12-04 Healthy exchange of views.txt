@@ -1,0 +1,39 @@
+
+Good interaction with the public via the Internet and social media necessary for modern governance and social stability
+The birth of the new media era, represented by the Internet and smartphones, has not only changed the manner in which people communicate, live and work, it has also catalyzed profound social changes.
+Public opinions voiced via new media have raised demands for reform of the Party's decision-making process, its established social communication mechanism and its traditional management of public opinion.
+The number of people using the Internet and other new media has rocketed in China, distinctly changing the political landscape, although what kind of role these tools for public opinion can play in the country's social and political spectrum, what functions they can produce and to what extent these function can be realized will be decided by its overall social conditions.
+It is a phenomenon common to all countries that people from different social strata have different wants and needs and they express their opinions through different channels and in different manners. In the absence of enough channels for them to express their viewpoints, some will adopt non-traditional channels to make their voices heard.
+
+
+
+
+
+
+
+China’s twitter-like information sharing and social contact platform, Weibo has seen a surge in popularity. But now it is facing a competitor.
+
+
+
+
+The fast development of new media has expanded the channels available for Chinese people to make their views known and caused a sea change in relations among different social groups. The direct and unchecked expressing of varying and even conflicting public viewpoints via non-traditional transmission platforms not only serves as a helpful supplement to traditional communication channels, it also poses a severe challenge to them.
+No country can afford to ignore the existence of social discontent or any growing disgruntlement, which might not necessarily be targeted at those in power but nevertheless can influence the relationship between a government and the public.
+Currently, China's social structure and values have experienced enormous changes and the whole society is in the process of radical transformations. Such transformations mean people need certain channels through which they can express themselves. The advent of blogs, micro blogs and Internet forums has played a positive role in meeting this need.
+In a diversified society, different but unblocked communication channels and platforms should be set up and reserved for different groups so they can make appeals or complaints and express other sentiments in accordance with the laws so that their voices can be heard by decision-makers. This is an effective way of defusing accumulating social discontent and promoting social stability. At a time when no other channels have been established for such purposes, the failure to include different public opinions and appeals into the mainstream or official opinion-expressing platforms will force people to use other means and thus fuel the chaos of social order.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

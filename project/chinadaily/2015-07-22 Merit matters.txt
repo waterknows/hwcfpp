@@ -1,0 +1,42 @@
+
+
+
+
+
+
+
+
+
+Daniel Bell, in his new book, compares Western liberal democracy with the Chinese meritocratic system of government. [Photo by Wang Jing/China Daily]
+
+
+
+
+Daniel Bell is surprised by the international interest in his new book.
+A tract on political philosophy that runs to just 198 pages (plus 106 pages of footnotes) might normally trigger only modest academic curiosity.
+But The China Model: Political Meritocracy and the Limits of Democracy (Princeton University Press) is set to become the most significant book about China in English this year.
+It has already had full reviews in the Financial Times, Bloomberg View and the Wall Street Journal, among others, and was selected by the philosopher and writer Julian Baggini as a summer book to take to the beach. In a piece for The Guardian, he cited it as an "uncomfortable challenge" to his liberal beliefs.
+"I feel sorry for him, if that is his holiday reading," says Bell of Baggini, laughing, while sitting in his apartment on Tsinghua University's campus in Beijing, where he has been a professor of ethics and political philosophy for a decade.
+His new book is seen as comparing Western liberal democracy unfavorably with the Chinese meritocratic system of government. He insists, however, that this was not what he had attempted to do.
+"I am not in favor of the US system of government being replaced by the Chinese system or the other way round. That is crazy," he tells China Daily.
+"I have had a lot of people, as you can imagine, who disagree with it. Some of them have used up column space to talk about their own ideas and not engage with the book at all. But I have had some positive reaction also."
+The 51-year-old academic says he wants to challenge the theory that Western liberal democracy is a universal ideal.
+"I think in Western countries, academics and the popular media generally think that government is just about one person, one vote, regardless of whether a country is very small or has 1 billion people. The actual concept of democracy is also more complex than that, too."
+Bell believes many underestimate the depth of experience of China's leadership.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

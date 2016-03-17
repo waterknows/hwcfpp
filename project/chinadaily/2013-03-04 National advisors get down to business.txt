@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Top political adviser Jia Qinglin submits the work report to the Chinese People’s Political Consultative Conference National Committee at the opening of the annual session of the conference on Sunday. [Zou Hong / China Daily]
+
+ 
+
+
+
+Members of CPPCC to focus on major issues facing nation
+More than 2,000 national political advisers, about half of them new members, will tackle a host of issues, including corruption, environmental concerns and an increasing income gap, during their nine-day annual session, which started in Beijing on Sunday.
+Over the past five years, the Chinese People's Political Consultative Conference has been making suggestions and proposals related to the work of the Party and the government, Jia Qinglin, the top political adviser, said in his work report delivered in the Great Hall of the People on Sunday afternoon.
+From 2008 to 2012, the CPPCC organized more than 500 in-depth studies, focusing on the economy, people's livelihood and regional development, he said.
+Many of the proposals had been adopted by governments, he added.
+Jia cited the example of Hainan province to illustrate his point.
+The central government mapped out a strategy to build Hainan, a tropical island, into an international tourist destination in 2009 based on a proposal that stemmed from the CPPCC.
+Sun Jiazheng, vice-chairman of the 11th CPPCC National Committee, led an inspection team to Hainan in 2008. Later, the team delivered a report to the central government, suggesting it delegate power to local authorities and allow them to explore a tourism-centered economy including forest walks and a yacht industry.
+In the past five years, advisers submitted about 28,900 proposals, according to Wan Gang, another vice-chairman of the 11th CPPCC National Committee, who reviewed the body's consultative work at the opening ceremony on Sunday.
+Advisers shared their stories of being a part of the CPPCC with China Daily reporters.
+Wu Haiyan, a veteran adviser from Zhejiang province, said that the CPPCC has provided "a brilliant platform" for her to make a real difference.
+Wu, deputy director of the School of Design at the China Academy of Art, recalled that she submitted a proposal to revise an article of the intellectual property protection rights law in 2010 and a few months later she received a call from the top court.
+"They invited me and 18 other CPPCC members to a seminar in Beijing and top court officials discussed revision details with us," she said.
+She received a document from the top court that highlighted the amendments attributed to her proposal.
+"I have seen that the authorities are more and more open-minded," she said.
+Some urged fellow advisers to help make the CPPCC function better as a platform for consultative democracy.
+Sammy Lee, a CPPCC member from Hong Kong, recalled an argument among CPPCC members a few years ago about a revision to the Labor Law.
+The political advisers formed two main groups, one claiming to speak on behalf of the laborers, the other for employers.
+Lee, chairman and managing director of the Lee Kum Kee Health Products Group, said he believed the debate had missed the point.
+"I think as national political advisers we should address problems from a national perspective, not simply speak for groups we stand for," he said.
+Action movie star Jackie Chan said he felt "thrilled" to become a national political adviser. He said that he plans to submit a proposal on the film industry.
+Former NBA star Yao Ming, a rookie CPPCC member, said he appreciates the opportunity to discuss major national policies with leading figures from all walks of life.
+Yao said he spent about a week mulling over his proposal to integrate sports with public education.
+"The CPPCC is a good platform for us to learn from each other as you hear a lot of enlightening ideas," he said.
+Contact the writers at hedan@chinadaily.com.cn and wuwencong@chinadaily.com.cn
+
+
+
+
+Previous Page
+1 2 3 Next Page
+
+Previous Page
+1 2 3 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

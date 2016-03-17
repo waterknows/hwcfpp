@@ -1,0 +1,23 @@
+
+The inevitable is about to happen. Well, it is almost certain to happen. Syrians face imminent bombing by Western forces led by the United States. They face more deaths and destruction, ironically, for suffering what many believe is a chemical weapon attack and seeing more than 100,000 of their compatriots perish and a good part of their country devastated in almost two and half years of civil war.
+The Middle East has been a tinderbox since ancient times. Initially, the struggle between the mountain people of the north and desert wanderers of the grasslands turned it into a battlefield for the resources. The "Fertile Crescent" of the Levant, with its crops from wheat and barley to flax and pea, fueled conflicts among warring ethnicities and nations. Religious wars kept the blood flowing from Roman times through to the Crusades and the creation of Israel, which unfortunately continues to this day. The 20th century ignited a different kind of conflict, over oil and waterways (the Suez Canal).
+Through all this, the Middle East, home to the oldest civilizations from the Sumerian and Egyptian to the Phoenician and Persian, has survived to develop as a fractured land of pain and suffering amid pockets of riches and luxury. But it has also given birth to militancy and terrorism, partly because of the havoc wreaked upon the land by outside forces and the sufferings of their fellow Muslims in other countries and regions.
+The division within the Middle East, mainly sectarian - between Sunnis and Shiites - has been a feature of life for Muslims since the 7th century. Now this division is on the verge of tearing the region apart, with the West playing more than a catalyst's role. As long as Saddam Hussein was in power, Iraq was not considered a Shiite country, even though Shiites comprised the majority of its population. But now with Shiites in power of a devastated Iraq, thanks to the US-led invasion and "occupation" of the country, it's sympathies, though not overtly, lie more with Iran than any of the Arab countries.
+Syria, on the other hand, is a Sunni-majority country ruled by Alawites, one of the three main Shiite sects. And that's why the Arab world, represented by the Arab League, is opposed to the Syrian government. Since Syria has close relations with Iran, the leader of the Shiite world which has been at loggerheads with the West as well as the Arab countries, it is seen as a threat by Western politicians and media.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

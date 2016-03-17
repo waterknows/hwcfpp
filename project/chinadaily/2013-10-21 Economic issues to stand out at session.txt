@@ -1,0 +1,37 @@
+
+Editor's note: The Central Committee of the ruling Communist Party of China, composed of more than 200 senior Party officials, will be held in November to discuss major economic and social issues concerning comprehensive reform.
+Beginning on Monday, China Daily will have a series of stories on major issues that might be discussed at the upcoming meeting. Properly solving these issues is crucial to the reform carried out by the new leadership.
+Rumblings of China's new reform to unleash another round of economic expansion have swirled as a key Party meeting approaches.
+In about a month, a long list of reforms will be discussed and acted upon at a top-level conference in Beijing. But questions remain regarding to what extent the top leadership will be able to reach a consensus on these incentives and how such initiatives could be carried out.
+In an ongoing survey on ifeng.com, which had polled more than 1.1 million netizens as of Saturday, more than 91 percent of respondents said they believe the Chinese economy should bid farewell to its dependency on exports and investments while kicking off reforms that touch upon real issues and address society's real concerns.
+Yet despite the unified call for a transition in China's development model, opinions are largely divided on whether the 200-plus committee members at the upcoming meeting — the Third Plenary Session of the 18th Central Committee of the Communist Party of China — will be able to reach an agreement on the reforms.
+Only about 43 percent of respondents thought new reforms would pass in the conference, while more than 52 percent were pessimistic, saying the situation is still complicated and reforms cannot move forward at the moment.
+The third plenums since 1978 have gained in popularity for their decisive role in setting up the country's economic agenda.
+It was billed as a watershed moment in 1978, when Deng Xiaoping opened China to the world. Since then, the meeting has repeatedly shown its significance by overhauling the country's economy on various occasions.
+This year, calls for reform of the financial sector, land circulation, tax redistribution and resource pricing keep rising. Other proposed reforms, such as social welfare and household registration, are also expected to upgrade the urbanization.
+Wu Hui, a professor at the Party School of the Central Committee of the CPC, said the hope for a makeover plan is high this year because there are already some reforms underway, which show the top leadership's determination and capability to succeed in making changes.
+Since last year, the government has ushered in a campaign to combat corruption and cut waste. The road map for streamlining governments is also being implemented.
+In the business domain, financial reform is further along, as China has gradually relaxed restrictions on its currency, the renminbi, and freed up bank lending rates in July.
+"These preliminary reforms are likely to test the water, debug the plan and facilitate future actions about to come," Wu said.
+Tang Jianwei, an economist with the Bank of Communications, said the biggest obstacle ahead for the country is the continuous slowdown of economic growth, and dealing with it will require both courage and clear judgment.
+"Administrative power is being restricted, some resources pricing has started to open up, and the economic downturn hasn't triggered changes in monetary policy," Tang said.
+He added that it is essential at the moment to free the financial markets, encourage technological advances and lower the threshold for private investors. The era of the export-and-investment-led model has ended, he said.
+"Regardless of whether all these widely expected reforms get approved at the meeting, it will point out the way for the world's second-largest economy to follow in the next several years and to attract more investors from the outside world," he said.
+zhaoyinan@chinadaily.com.cn
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

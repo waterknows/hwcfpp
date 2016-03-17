@@ -1,0 +1,33 @@
+
+Economic and social progress will dominate discussions at Party's key meeting in Beijing, Fu Jing reports
+Ahead of the Communist Party's much awaited plenum that begins on Nov 9, expectations are high that the meeting will provide the future reform agenda for China and clear the decks for sustainable, balanced development. As the 200 members and 170 alternate members of the Party's Central Committee get ready to meet in Beijing to discuss among other things China's economic blueprint, experts agree that reforms will undoubtedly be the main point of discussions.
+Historically, third plenums have been the springboard for key reforms in China, particularly on economic matters. While some experts feel the meeting may call for more bold, drastic reforms, others feel it will be a case of gradual, incremental changes.
+Yu Zhengsheng, China's top political adviser, in a recent interview with Xinhua News Agency, indicated that the meeting will "principally explore the issue of deep and comprehensive reforms".
+The reforms this time "will be broad and will be unprecedented", he said, adding: "They will strongly push forward profound transformation in the economy, society and other spheres."
+The Political Bureau of the Communist Party of China Central Committee said in a statement on Oct 29 that the realization of the Chinese dream of national rejuvenation, a concept that has been promoted by the new Party leadership, requires deepening reforms comprehensively.
+The Party will speed up development of the socialist market economy, democracy, cultural development, social harmony and environmental protection, it said.
+Reforms aside, the meeting is also expected to concentrate on the fact that despite the uncertain external environment, China needs to assume more global responsibilities and champion world economic revival with swift and timely measures. Experts feel international attention on the meeting is sharper this time, because the development agenda will have a profound impact on the rest of the world.
+New model
+"One of the key reform objectives for China is to move toward a new model of sustainable and equitable development, one in which there is more balance between ecological sustainability and growth and provides better sustenance opportunities for all," says Gregory Chin, associate professor of political science at York University in Toronto.
+It is logical to expect that more measures in this regard will be announced at the political gathering because the Party has already pursued "ecological civilization" as one of the five pillars of its vision, although much still needs to be done on environmental aspects, he says.
+In this regard, Chin says, policymakers need to take more steps to ensure ecological sustainability, pay more attention to the biosphere (and human life within it), rethink how much economic growth is needed and how it can be achieved in more efficient and sustainable ways.
+At the same time, growing disparities in wealth and opportunities need to be reduced, while measures are needed to ensure clean, ethical and fair governance.
+Glyn Ford, a former member of the European Parliament, says China should opt for an incremental, rather than radical, reform agenda.
+He says continuation of balanced development in urban and rural areas and coastal and inland regions is needed while the country tackles other pressing issues such as corruption, rule of law and the need to stabilize population movements. "I think the imbalance between the rural and urban, coastal and inland regions and rule of law are the biggest challenges that China faces," Ford says.
+
+
+
+
+Previous Page
+1 2 3 Next Page
+
+Previous Page
+1 2 3 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

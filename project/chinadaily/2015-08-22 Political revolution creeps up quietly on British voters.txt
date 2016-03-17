@@ -1,0 +1,24 @@
+
+There's a political revolution going on in Britain that seems to have crept up on an unsuspecting British population. It has now become pretty certain that the comfortable days of this country's democracy being dominated by two political parties are gone; the Labour Party, led by Ed Miliband, was so sure of victory in the general election of May this year that vans were readied to move Miliband and his family into 10 Downing Street.
+The wheels had in fact started to fall off the Labour Party's electoral bandwagon when Nicola Sturgeon was elected leader of a resurgent Scottish Nationalist Party, which began showing a massive lead over Labour in Scotland, previously regarded as being solidly behind Labour.
+Miliband, already faced with a hostile press, refused to agree to any coalition or agreement with the SNP, a move which could have kept the Conservatives out of power in the British parliament.
+In the event, that wasn't necessary. Dramatically, Cameron won a clear majority in parliament, though his erstwhile Liberal Democrat coalition partners were savaged at the polls - from 51 members of parliament to just eight - while Labour was humiliated.
+Miliband immediately resigned as leader of the opposition, throwing his party into disarray. SNP members swept to a landslide victory in Scotland, winning 56 out of the 59 seats in the London-based British parliament. Labour retained just one north of England, which is where the revolution eventually kicked in.
+Politics in general, ever since Blair's victory with his New Labour movement, had drifted steadily to the center, fighting with Conservatives wanting to occupy the same ground. After all, most British voters reflect the country's preference for a less-challenging centrist approach, which takes the best from left and right. Not great on confrontation, the British public.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

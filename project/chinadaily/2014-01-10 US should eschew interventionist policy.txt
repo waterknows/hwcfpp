@@ -1,0 +1,25 @@
+
+Immediately after the United States-led invasion of Iraq in March 2003, we were told that Washington had got a rare opportunity to spread freedom and democracy in the Middle East. The US cited the successful transformation of postwar Germany and Japan to further its argument. For many, the picture painted by the US was indeed rosy.
+But what people have seen since former US president George W. Bush ordered the preemptive strikes is an Iraq transformed into a perpetual war zone.
+The Iraq Body Count project estimates that 132,929 civilians have been killed since the US-led invasion of Iraq. The total death toll would be 184,000 if combatants were included. On Jan 7 alone, 50 people were killed, including 21 in gunfire, in Baghdad.
+Not many people seemed to understand when people such as former Turkish prime minister Abdullah Gul, who is now the president, warned in 2003 that invading Iraq was like opening a Pandora's box, something that later US ambassador to Iraq Zalmay Khalilzad agreed with.
+US President Barack Obama, who opposed the Iraq war as a US senator, has chosen to withdraw American troops from Iraq and Afghanistan after ordering a brief surge in 2010. Former US defense secretary Robert Gates says in his memoir that Obama "doesn't believe in his own strategy, and doesn't consider the war to be his. For him, it's all about getting out."
+Republicans may think that Obama looks like being on the retreat from the wars, but what he has done in the past five years shows that he still believes in military power and interventionism. In the case of Libya, the US and its NATO allies violated a United Nations Security Council resolution on no-fly zone to effect a regime change.
+Obama pursued an interventionist policy in Syria, too, although his ambition was cut short because of strong domestic opposition, especially from his own Democrat camp. Nevertheless, the US still supplies arms and other equipment to the Syrian rebel forces, fueling the civil war.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

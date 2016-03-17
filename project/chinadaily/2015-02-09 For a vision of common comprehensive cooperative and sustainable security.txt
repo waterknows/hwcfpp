@@ -1,0 +1,23 @@
+
+Editor's Note: The article is an excerpt of the statement by Chinese State Councilor Yang Jiechi at the Opening Session of the 51st Munich Security Conference on Saturday.
+This year marks the 70th anniversary of the end of World War II and the founding of the United Nations. This is an important year of historic significance. As we review the momentous journey traveled by the world over the past 70 years, we must be sober-minded about the challenges confronting us and, at the same time, doubly cherish the progress we have made in peace, security and development. A review of the past should serve as a guide for us in observing the future trend of the world.
+Over the past 70 years, the world has maintained overall peace. The international community has put in place a collective security mechanism with the United Nations at its core. The purposes and principles of the UN Charter are the basic norms governing international relations. Since the end of the Cold War, the trend toward multi-polarity and greater democracy in international relations has gathered momentum, and the international balance of power is moving in favor of world peace.
+Over the past 70 years, remarkable progress has been made in human development. Scientific and technological advancement and economic globalization are profoundly changing human society. Europe and other advanced economies have a solid economic foundation and strong capacity for innovation; and emerging markets and developing countries have maintained dynamic growth and have vast potential to be tapped. By complementing each other and working together, we can bring about steady growth of the world economy.
+Over the past 70 years, cooperation within and between various regions has made important progress. The European integration process, which started early, has come a long way. Intra- and inter-regional cooperation of various kinds is flourishing in Asia, Africa and the Americas. Increasingly interconnected and interdependent, countries are forming a closely-knit community of shared destiny.
+
+
+
+
+Previous Page
+1 2 3 Next Page
+
+Previous Page
+1 2 3 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

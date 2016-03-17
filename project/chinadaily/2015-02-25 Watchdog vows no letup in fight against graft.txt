@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+
+
+
+
+A snippet of an antigraft documentary that began to air at the end of last year by China Central Television.
+
+
+
+
+China's top disciplinary body has pledged to persist with its iron-handed crackdown against corruption and other misconduct.
+In an article published on its website on Monday, the Communist Party of China Central Commission for Discipline Inspection said some people think the campaign cannot last for long, while others have suggested it has achieved its goal and should now be stopped.
+"We must firmly oppose such notions and should never overlook the danger of their becoming popular among the public," the article said.
+It cited President Xi Jinping's recent remarks that the situation in the anti-graft campaign is still "grim and complicated" and that although corruption levels are falling, the problem remains.
+The commission said the public wants no leniency to be shown toward corrupt officials and for the campaign to continue.
+"The campaign is expected to encounter greater difficulties as it deepens. Some of the tigers (high-ranking corrupt officials) we are about to deal with are very cunning," it added. "They are good at various maneuvers, such as keeping a low profile during the crackdown."
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

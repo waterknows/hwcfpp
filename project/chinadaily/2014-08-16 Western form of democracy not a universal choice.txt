@@ -1,0 +1,25 @@
+
+Three articles published in People's Daily and posted on its website recently are critical of Western-style democracy and US-style freedom of the press. The articles are part of an official campaign in defense of the system of government in China, which overseas observers often describe in negative terms.
+The authors of the articles are three relatively young theorists. They have contended that Western-style democracy is by no means the conclusive format of democracy and shouldn't have been sold for universal application, and that the press freedom the US preaches has never been put into serious practice in that country.
+Liu Jie, director of the Institute of Politics and Public Administration Studies at the Shanghai Academy of Social Sciences, says that since the 2008 global financial crisis and the unsuccessful "revolution"in or "liberation"of one country after another in the past couple of years, doubts have risen over the benefits of Western democracy.
+Western governments believe their model of democracy is the only one that can work, although in reality it is suited primarily to serve the interests of capital, and cannot be said to represent universal value.
+The basic form of Western democracy, one that runs on a system of open and competitive election, is not immune to undemocratic influences, most noticeably the influence of money, Liu says. This runs counter to its very claim of universality.
+However, global changes in the 1990s lent Western governments a sense of pride and prejudice that prompted them to assume they were always right and superior to other governments. Hence, the simplistic criterion that political development, wherever it takes place, can be acceptable only if it is based on the Western democracy model, as seen in the "color revolutions" that took place in the former Eastern Bloc countries and the "jasmine revolutions"in the Middle East.
+While abusing democracy, Western powers show little concern, if any at all, for the economic and social well-being of the allegedly newly democratic countries. In most cases, Liu says, poverty and unemployment have persisted in these countries, and pushed them into greater chaos making people's lives more insecure.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

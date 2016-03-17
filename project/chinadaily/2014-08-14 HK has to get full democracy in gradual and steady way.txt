@@ -1,0 +1,25 @@
+
+Although the central authorities have time and again reiterated its promise of introducing universal suffrage in Hong Kong, some people are still skeptical, ignoring even the efforts it has made under the legal framework for the development of democracy in Hong Kong.
+The Basic Law of the Hong Kong Special Administrative Region is the greatest proof of the central authorities' seriousness to establish democracy in Hong Kong. After all, the National People's Congress widely solicited the opinions of Hong Kong residents, especially their views on its political system, and absorbed many of them in the Basic Law.
+The Basic Law, which represents Hong Kong residents' aims, interests and aspirations, was enacted through a democratic procedure and is far more democratic than Hong Kong's former constitutional laws, the Hong Kong Letters Patent and Hong Kong Royal Instructions.
+The political system the Basic Law propagates reflects the principle of democracy. For example, it stipulates that the chief executive (CE) of Hong Kong shall be a Chinese citizen who is a permanent resident of Hong Kong, which represents a huge democratic leap from "Britons rule Hong Kong" to "Hong Kong people rule Hong Kong".
+The Basic Law's aim is to select the CE through universal suffrage after nomination by a broadly representative nominating committee in accordance with democratic procedures. And its ultimate aim is to elect members of the Legislative Council through universal suffrage, making the political system democratic and scientific.
+The Basic Law provides the direction, and stipulates the principle and procedure to achieve full democracy in Hong Kong. It has made Hong Kong residents masters of Hong Kong in terms of exercising democratic rights and is helping Hong Kong's political system achieve real democratization.
+The central authorities and Hong Kong residents agree that there should be full democracy in Hong Kong, but they need to reach a consensus on how to reach that stage and how different democratic rights should be exercised. The central authorities want Hong Kong's democratic development to respect the rule of law, that is, the political framework set by the Basic Law. This means anything beyond the provisions of the Basic Law should not be part of the political development.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

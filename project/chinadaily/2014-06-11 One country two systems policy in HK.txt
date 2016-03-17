@@ -1,0 +1,27 @@
+
+Editor's Note: The Information Office of the State Council, or China's Cabinet, issued a white paper on The Practice of the "One Country, Two Systems" Policy in the Hong Kong Special Administrative Region on Tuesday. Following is the full text filed by Xinhua News Agency.
+The Practice of the "One Country, Two Systems" Policy in the Hong Kong Special Administrative Region
+Information Office of the State Council, The People's Republic of China, June 2014, Beijing
+Foreword
+"One country, two systems" is a basic state policy the Chinese government has adopted to realize the peaceful reunification of the country. Following this principle, the Chinese government successfully solved the question of Hong Kong through diplomatic negotiations with the British government, and resumed the exercise of sovereignty over Hong Kong on July 1, 1997, fulfilling the common aspiration of the Chinese people for the recovery of Hong Kong. As a result, Hong Kong got rid of colonial rule and returned to the embrace of the motherland, and embarked on the broad road of common development with the mainland, as they complemented each other's advantages.
+Hong Kong's return to the motherland turned "one country, two systems" from a scientific concept into vivid reality. The central government strictly adheres to the Basic Law of Hong Kong, earnestly performs its constitutional duties and stands firm in supporting the administration of the chief executive and the government of the Hong Kong Special Administrative Region (HKSAR) in accordance with the law. The HKSAR exercises a high degree of autonomy in accordance with the law, and is vested with executive, legislative and independent judicial power, including that of final adjudication. The previous capitalist system and way of life remain unchanged, and most laws continue to apply. Hong Kong continues to prosper, its society remains stable, and full development is being witnessed in all undertakings. The "one country, two systems" policy enjoys growing popularity in Hong Kong, winning the wholehearted support from Hong Kong compatriots as well as people in all other parts of China. It is also thought highly by the international community.
+"One country, two systems" is a new domain in which we constantly explore new possibilities and make new progress in pioneering spirit. A summary of the policy's implementation in the HKSAR, and a comprehensive and correct understanding and implementation of the policy will prove useful for safeguarding China's sovereignty, security and development interests, for maintaining long-term prosperity and stability in Hong Kong, and for further promoting the "one country, two systems" practice along the correct track of development.
+
+
+
+
+Previous Page
+1 2 3 4 5 6 7 8 9 10 Next Page >>|
+|<<
+Previous Page 11 12 13 14 15 16 17 18 19 Next Page
+
+Previous Page
+1 2 3 4 5 6 7 8 9 10 Next Page >>|
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

@@ -1,0 +1,25 @@
+
+As the frustrating, until now futile search for Malaysia Airlines Flight 370 wears on, some people may be wondering: How long will China continue its big and costly operation in the Indian Ocean?
+China has contributed nine warships and civilian vessels and six aircraft to the search mission fraught with twists and letdowns. It has already cost many millions of yuan according to some unofficial estimates. The Chinese navy's announcement early this week to cancel an international fleet review, partly because of the deployment of some of its most advanced hardware in the Indian Ocean, has underscored the onerousness of its commitments.
+Although search teams have seen little light at the end of the tunnel and the disappearance of the plane remains a mystery, China has shown no sign of relenting. Its top leaders have repeatedly pledged to make greater efforts and work with other countries to find the plane.
+Some cynics may interpret China's resolve as a mere show of its growing economic strength and rising naval capabilities. But many people see in China a nation that has made the moral decision to take care of its citizens wherever they may be. It's the power of attraction - not economic or military muscle - that captures people's hearts and that is what China desires to increase.
+For years, China has been exploring ways of translating potential sources of its soft power into real influence with some success. Major drives of public relations include hosting the Beijing 2008 Olympic Games and the Shanghai 2010 World Expo, opening Confucius institutes across the world and the "relaunching" of the State media to provide more information about the country.
+But foreign countries' perception about China has more or less remained "one-sided", for they tend to associate its success on multiple fronts with the "China threat" theory or its problems with the "China collapse" theory, according to officials and experts concerned about the nation's image.
+While some in China still believe negative foreign views about China can be explained away by providing more information, many have realized that foreigners will continue to rely on their own media which reconstruct the image of China through a different lens.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

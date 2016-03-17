@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+The moment you touch the mouse, joystick or mobile device button, someone is likely tracking you. Provided to China Daily
+
+
+
+
+
+
+Every time you are online and tapping away on your laptop or digital device, someone is logging every action. Scary? Erik Nilsson puts his eyes on the spies.
+You are being spied on. Web-tracking companies are logging your keystrokes, page visits - even the routes your mouse takes across pages, including where you hover and for how long. They are documenting, aggregating and selling your information to Big Data.
+"The moment you touch the mouse, joystick or mobile device button, someone is likely tracking you," Center for Digital Democracy executive director Jeff Chester says.
+"Marketers and advertisers believe they can follow you from that first click to when you engage in some action - buy a product, request information, etc. Through cookies, Web bugs, sentiment mining, predictive analytics and, especially now, through the power of Big Data, we're tracked 24/7 - all so we can be sold, increasingly, to the highest advertiser bidder, using real-time ad auctions."
+Google operates one in China, through its Doubleclick Ad Exchange subsidiary, he says.
+"Users are often unaware of the kind of data trail they are leaving behind," Electronic Frontier Foundation global policy analyst Eva Galperin explains.
+"I would say that the combination (of Web-tracking and Big Data) allow companies and governments to track users across the Web and make educated guesses about many details of their lives - not just demographic data, such as age, gender and location, but potentially sensitive information, such as religion, sexual orientation or political sympathies.
+"With access to a large enough corpus of data, companies and governments can make educated guesses about where you work, who your family members are and identify your circles of friends."
+Some individuals view this as the 21st-century manifestation of 1984's Big Brother.
+Others consider it harmless or helpful, in that it hones the ads they see online according to their interests.
+The online advertising industry estimates 80 percent of Web ads hail from tracking, ABC News reports.
+Web-trackers record and compile dossiers of your Internet use history - they swear they don't include your name but instead assign you a number - and then sell them on stock market-like exchanges, often for 1/10th a US cent apiece.
+"Online activities, including browsing histories and buying habits, can be collected and tracked by websites and advertisers through the use of traditional and newer techniques, such as cookies and supercookies," Earst & Young's global IT risk and assurance services leader Paul van Kessel says.
+"As Web users provide personal information on websites, conduct transactions or perform certain actions, such as downloading freeware or malware, their personal data and other related information can be collected and used without their knowledge.
+"Such sensitive information can be compiled and used for performing marketing activities, such as providing personal recommendations or advertisements to a website user based on his or her personal profile."
+A newcomer to the tracking technology is the beacon.
+Beacons go beyond "history-stealing" third-party cookies, which log and relay your histories, and supercookies or "zombie cookies", which hide in your computer and usually resurrect themselves if deleted. Beacons track how you navigate a page - how your mouse moves, where it hovers and for how long, what you type into, say, a comments field.
+A recent innovation comes from Silicon Valley's Euclid Analytics' "WiFi sniffing sensors".
+Retailers buy these to glean data - they claim it's scrambled to prevent individual identification - from smartphone users who walk past or into outlets to study such information as if and for how long they view window displays, and how they roam the store space. The technology searches for the "pings" smartphones emit as they beckon WiFi networks and e-mails reports to clients.
+Experts say Web-trackers know your favorite pizza toppings, romantic interests and health problems.
+A Web privacy movement has not only pushed most browsers to include "do not track" options and created its own software, but also has continued pursuing legislation and lawsuits against trackers.
+"For every step forward many organizations have taken to secure their data, they are failing to keep pace with the speed and complexity of change," Van Kessel explains.
+"Indeed, emerging technologies, including Big Data, virtualization, cloud computing, social media and mobility, are creating new opportunities for organizations. However, the velocity and complexity of change in such technologies are opening the door to a wave of internal and external threats and security risks."
+This isn't just big business. It's huge. Estimates of how much of the world's electricity Big Data uses gravitate toward 3 percent.
+And it's not just business in the traditional sense. An expertise at data mining is widely acknowledged as crucial to US president Barack Obama's 2012 election victory.
+Targeted ads were created based on data taken from people who used the Obama 2012 - Are You In? application.
+The app recorded and used not only such information as name, sex, residence, religion, birthdate and political inclinations but also what comparable data it could get on family and friends.
+So, it's not just private corporations who are buying your data to sell you products. It's also political entities trying to buy your votes.
+Time magazine was given access to the campaign's Big Data headquarters.
+It reported: "A massive data effort helped Obama raise $1 billion, remade the process of targeting TV ads and created detailed models of swing-state voters that could be used to increase the effectiveness of everything from phone calls and door knocks to direct mailings and social media."
+That hints at another trend - the "harmonization" of online and offline data.
+Our digital dossiers extend often beyond our online activities to also log and sell information about our offline lives.
+Take SumAll's initiative to match Web-tracking information with credit card information.
+"By folding in credit card information, its clients can analyze customer behavior both online and off in a mix of website analytics, social media data and brick-and-mortar location transactions," the company says in a statement.
+"Bringing data in from physical locations as well as online activity can help businesses create a richer real-time view of important issues that could increase revenue."
+There's the case widely reported by US media about the Minnesota father who gave a manager at the department store Target (aptly named in this instance) an earful about sending his teenage high school daughter packs of coupons for all things maternal.
+When customer service later phoned to apologize, the dad was the one saying sorry.
+His daughter's baby was due in August. Some find it eerie that Target knew first.
+Target statistician Andrew Pole told the New York Times: "Then, we started mixing in all these ads for things we knew pregnant women would never buy, so the baby ads looked random. We'd put an ad for a lawn mower next to diapers. We'd put a coupon for wineglasses next to infant clothes.
+"That way, it looked like all the products were chosen by chance. And we found out that as long as a pregnant woman thinks she hasn't been spied on, she'll use the coupons."
+So, what can netizens who don't want to be tracked do?
+"Unfortunately, it is almost impossible to stop this kind of tracking and online targeting if one is to be part of 21st century society," Chester says. "However, one can block cookies, use technologies that support 'do not track' and call on governments to support privacy regulations that limit what can be secretly collected from you."
+Contact the writer at erik_nilsson@chinadaily.com.cn.
+(China Daily 05/12/2013 page3)
+

@@ -1,0 +1,24 @@
+
+Social inequality and lack of trust in the authorities show modernization of political system and mechanisms needed
+Of the many innovative decisions made at the Third Plenary Session of the 18th Central Committee of the Communist Party of China as a blueprint for the ongoing reform drive, the modernization of governance is the most significant.
+By highlighting the governance system and governing capability in the roadmap document released after the plenum, the Party has made clear the direction of reform is modernizing its political system, which in turn requires substantial innovations in politics, decision-making procedure, the judicial process, the budget and supervision. It is the experience of reform over the past 35 years that has highlighted the importance of improving the State governance system and the Party's governance capabilities. For the past 35 years, China owes its constant economic development and social stability largely to continuous reform, which has been governance modernization in essence. Now the plenum has offered the needed theoretical support for further governance modernization with the roadmap document.
+Governance modernization is also a response to the serious challenges that China is encountering in its development: vested interest groups, increasingly fierce conflicts of interests, worsening environmental degradation, social injustice and the lack of public trust in the authorities. These challenges mean China's current governing system and capabilities are insufficient to meet the changing needs of society. Without innovative reforms, these challenges might possibly develop into a political crisis that poses a threat to the Party's rule. As the document sets out, the ultimate solution to the crisis lies in reform that modernizes the State governance system.
+The success of such reform lies in further emancipation of the mind. This is because governance reform, as a facet of the wide-ranging reforms in the political regime, is politically sensitive and policymakers may become overcautious in the reform process. As the central leadership emphasized at the latest plenum, the emancipation of the mind should know no boundary. Any new ideas and approaches aimed at promoting social fairness and justice and improving people's well-being deserve special attention and arduous efforts should be made to encourage them. Any governance mechanism that fails to meet people's expectations and hinders the country's social and political advancement should be removed.
+Yet, even with further emancipation of the mind, governance reform will be no easy task, as the longstanding problems of fragmented management, shortsighted policy initiatives, localism and poor coordination among different government sectors in policymaking have severely undermined governance at the national level. That is why China's governance modernization calls for a top-level design that is well coordinated, so it can go beyond the pursuit of immediate and vested interests and promote broad discussions in the decision-making process to avoid any piecemeal approach to problems.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

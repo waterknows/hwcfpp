@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+
+
+
+
+
+A card that reads "Pray for France" is placed outside the French Embassy in Washington D.C., Nov 13, 2015. Over 100 people were killed in a mass hostage-taking at a Paris concert hall Friday and many more were feared dead in a series of bombings and shootings.[Photo/Xinhua]
+
+
+
+
+The terrorist attack in Paris last Friday that killed 129 people and the bombing of Russian jet on Oct 31 in which 224 lives were lost are just the latest atrocities that should be condemned by the whole world.
+After the Paris attacks, cities around the world lit their landmarks in the colors of the French flag to show their support for the French people. That also included the Oriental Pearl TV Tower in my home city of Shanghai.
+But while expressing sympathy for the victims of the terrorist attacks, many Chinese are asking what has caused the growing number of extremists like those of the Islamic State group.
+The answer given by most US politicians seems quite simple: They hate our values, they hate our democracy, they hate our freedom and they hate ourway of life. But such a reply hardly seems to address the question.
+Of course, US Democratic presidential candidate Bernie Sanders has blamed the prolonged war following the US invasion of Iraq as a cause. While such an answer does speak some truth, it is so politically incorrect that most US news media would not allow a live discussion.
+US leaders, so eager to pursue regime change in Syria, have also blamed President Bashar al-Assad for the rise of IS. This is hardly convincing given many of the IS extremists are from other countries in the Middle East and Europe.
+The debate over whether Assad must go has been hampering possible and better cooperation between Russia and the US in fighting the IS group. In fact, the US insistence on regime change has also prevented itself from fighting IS effectively.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

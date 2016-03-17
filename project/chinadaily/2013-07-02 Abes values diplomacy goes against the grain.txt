@@ -1,0 +1,26 @@
+
+On his way to the recent G8 Summit, Japanese Prime Minister Shinzo Abe stopped off in Central Europe to hold Japan's first ever summit with the Visegrad Group, which comprises the Czech Republic, Hungary, Poland and Slovakia.
+In a joint statement the two sides emphasized their shared commitment to democracy, human rights and the rule of law, and announced a "partnership based on common values for the 21st century".
+Japan's Mainichi Shimbun stated outright that this was undoubtedly intended as a message to China.
+Shortly after taking office in December, Abe reiterated his "values diplomacy", telling the newspaper Yomiuri Shimbun in an interview on Dec 28 that Japan will deepen ties with nations that share and uphold these values.
+Japan is now promoting this concept in a host of different diplomatic areas in a bid to build what it calls an "arc of freedom and prosperity" along the outer rim of the Eurasian continent.
+The United States' rebalancing toward Asia has set the stage for a quadrilateral linking of Japan, Australia and India with the US. And after coming to office in December, Abe made his first overseas trip to South East Asia, visiting Vietnam, Thailand and Indonesia. He didn't even bother to conceal his intention that countering China was the main objective. During Indian Prime Minister Manmohan Singh's Tokyo visit in May, Abe maintained this line of thinking, stating that it was up to "India from the west, Japan from the east" to maintain peace in the region.
+This reflects what Abe calls his "strategic diplomacy", which is aimed at reasserting Japan's position as a great power. And by characterizing Japan's partnerships with India and Southeast Asia as "value-based diplomacy", he is trying to exclude China from the cozy club of nations led by the US that dominates global governance.
+"Declaring for all to hear that you're working to contain another country is not foreign diplomacy. (Japan's) Politicians must talk about how important Japan-China relations are with courage," Hitoshi Tanaka, chairman of the Institute for International Strategy at the Japan Research Institute, said in an interview with the Mainichi Shimbun.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

@@ -1,0 +1,36 @@
+
+The Information Office of the State Council, or China's Cabinet, issued a white paper on Progress in China's Human Rights in 2014 on Monday. Following is the full text:
+Preface
+I. Right to Development
+II. Rights of the Person
+III.Democratic Rights
+IV. Right to Impartial Trial
+V. Rights of Ethnic Minorities
+VI. Rights of Women, Children and Senior Citizens
+VII.Rights of Persons with Disabilities
+VIII.Right to a Clean and Healthy Environment
+IX. Foreign Exchanges and Cooperation
+Preface
+In 2014 the Communist Party of China (CPC) and the Chinese Government jointly pushed forward the implementation of the country's four major strategic tasks: (1) build a moderately prosperous society; (2) drive the reform in a deeper level; (3) advance the law-based governance of China; and (4) strengthen Party self-discipline. The Chinese people enjoyed practical benefits from the development of the country, and their human rights situation also made new progress.
+The basic rights of the Chinese people became better protected, and China's constitutional principle of "respecting and safeguarding human rights" was implemented in a better way. In 2014, China made steady progress in comprehensively completing the building of a moderately prosperous society. By the end of the year, among all the 29 countable or measurable indicators for economic and social development set forth in the 12th Five-Year Plan (2011-15), 12 had been over-fulfilled, three had been nearly fulfilled and 11 had made smooth progress, accounting for 90 percent of the total. The mid-stage assessment of China's National Human Rights Action Plan (2012-25) was carried out in December 2014, and the result showed that most of the targets set in the plan had been reached, and a larger part of the quantitative indices had been half or even more achieved. In the same year China's efforts for law-based governance reached a new take-off stage. The Fourth Plenary Session of the 18th Central Committee of the CPC approved the Resolution of the CPC Central Committee on Certain Major Issues Concerning Comprehensively Advancing the Law-Based Governance of China, drawing up a clear blueprint for building a socialist law-based country with Chinese characteristics. The fundamental purposes of the blueprint are to protect civic rights, to defend human dignity and to put basic human rights into practice.
+The tremendous achievements China has made in its human rights endeavors fully demonstrate that it is taking the correct path of human rights development that suits its national conditions. Along this path, the CPC will steer the country in the right direction; the combination of the universal human rights principle with China's national conditions will safeguard, at a higher level, the Chinese people's rights to life and development; law-based governance will ensure that China's human rights development is enshrined in the legal system and institutions; all aspects of human rights will be developed with key areas being given priority; China will carry on and promote its fine traditions in this field while learning from and absorbing the merits of all other civilizations.
+In order to realize the Chinese Dream of the great rejuvenation of the Chinese nation, both the CPC and the Chinese Government will cherish the country's precious and hard-won achievements and experiences in the realm of human rights, and will make great efforts to develop various undertakings conducive to the protection and realization of human rights, and ensure that all are able to achieve personal development and to contribute to society, to enjoy equal opportunities to achieve their potential and to realize their dreams, and to enjoy equal opportunities to participate in the development of the country.
+
+
+
+
+Previous Page
+1 2 3 4 5 6 7 8 9 10 Next Page >>|
+|<<
+Previous Page 11 12 Next Page
+
+Previous Page
+1 2 3 4 5 6 7 8 9 10 Next Page >>|
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

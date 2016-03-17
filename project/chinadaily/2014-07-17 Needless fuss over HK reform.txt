@@ -1,0 +1,27 @@
+
+
+
+The Hong Kong government issued two crucial reports on universal suffrage in 2017 on Tuesday. Chief Secretary Carrie Lam Cheng Yuet-ngor submitted one report to the House Committee of the Legislative Council and Chief Executive Leung Chun-ying submitted the other to the Standing Committee of the National People's Congress, taking the first step in the yearlong reform process.
+Hong Kong was reunified with the motherland 17 years ago, and since then four elections have been held for Hong Kong Special Administrative Region's chief executive under the guidance of Hong Kong Basic Law. Hong Kong's first chief executive was chosen by a selection committee while the second, third and fourth were chosen by the Election Committee, and all of them were eventually appointed by the central government. Until now, three people have held the chief executive's post: Tung Chee-Hwa, Donald Tsang Yam-Kuen and Leung Chun-ying.
+Article 45 of the Hong Kong Basic Law stipulates: "The chief executive of the Hong Kong SAR shall be selected by election or through consultations held locally and be appointed by the central people's government.
+"The method for selecting the chief executive shall be specified in the light of the actual situation in the SAR and in accordance with the principle of gradual and orderly progress. The ultimate aim is to select the chief executive through universal suffrage upon nomination by a broadly representative nomination committee in accordance with democratic procedures."
+The specific method for selecting the chief executive is prescribed in Annex I - "Method for the Selection of the chief executive of the Hong Kong SAR". Article 45 does say that the final goal of the Hong Kong chief executive election is to achieve universal suffrage, but it does not give a timetable for achieving that goal.
+On Dec 29, 2007, the 31st meeting of the Standing Committee of the 10th National People's Congress gave a timetable for achieving universal suffrage in Hong Kong: the 2017 election for the fifth Hong Kong chief executive. After the Hong Kong chief executive is elected through universal suffrage, all members of the SAR's Legislative Council can also be elected through the same process.
+From Dec 4, 2013, to May 3, 2014, the SAR government held public consultations on the 2017 chief executive election and the 2016 Legislative Council election. It has also launched other procedures to achieve universal suffrage.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

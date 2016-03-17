@@ -1,0 +1,25 @@
+
+Local people have publicly rejected 'Occupy Central' and they have warned troublemakers not to do anything that will hurt the SAR
+Hong Kong, despite its small size, is respected by the international community for its economic achievements, its status as an international financial center and its generally well-behaved citizens.
+But now the Special Administrative Region is attracting international attention for different reasons. This time the focus is on the debate over constitutional reform and the public meddling in the issue by some foreign powers. Some local people do not fully realize how serious this interference by foreign forces is.
+The Egyptian consul-general in Hong Kong recently said the city should not repeat his country's mistake in blindly copying Western democracy. The Jordanian and Syrian consuls-general in Hong Kong offered similar advice. Even the consuls-general of some - pro-Western - Eastern European countries have voiced similar concerns. Many foreign business people working here have also spoken out. These foreigners know and love Hong Kong.
+People who think Hongkongers shun political issues don't really know us. In the past villagers from the New Territories resisted invasion by British colonial forces. Hong Kong-based guerrillas joined forces with mainland counterparts in armed resistance against Japanese invaders. They helped save the lives of Allied pilots shot down during World War II. Local residents cared about developments on the mainland and the handover of Hong Kong back to Chinese governance. All these things show Hong Kong people are committed to political issues.
+Intense disputes over Hong Kong's constitutional reform continue among local people. But there is no question that certain foreign forces are also involved. They include foreign intelligence agents, instigators of "color revolutions" and financial speculators. They have colluded with subversive forces to hurt Hong Kong's economy and then profit from the chaos.
+But the concern Hong Kong people feel about this was apparent when more than 1.5 million local residents signed the petition against "Occupy Central" recently. They clearly rejected this illegal campaign designed to paralyze Hong Kong's financial business district in the name of "true democracy" and "genuine universal suffrage". The unprecedented public rejection of "Occupy Central" proves Hongkongers are well aware of foreign powers' real intentions behind their support for the "occupiers". They are astute about these realities and used this as an opportunity to warn these troublemakers not to do anything which will hurt Hong Kong.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

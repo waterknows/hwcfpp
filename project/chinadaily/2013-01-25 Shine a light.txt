@@ -1,0 +1,47 @@
+
+
+
+
+
+
+
+
+Hans Boller and his wife Amy Wu are proud of their Western-Eastern cultural mix. Xie Songxin / China Daily
+
+
+
+
+
+Following a night-time arrival into the blackness of Beijing in 1976, Hans Boller has dedicated himself to telling the world about China
+'It-was-dark," is how Hans Boller describes his memory of first arriving in Beijing in 1976, a few weeks after Mao Zedong's death. The only thing illuminated outside the window of his Swiss Airlines flight was chairman Mao's portrait. And the darkness continued beyond the airport, as he was driven along small roads in a car with dim lights to his accommodation. When he woke the next day and stepped outside, he found he was in a land of bicycles.
+Born in 1947, Boller grew up in Switzerland and studied economics and social sciences to PhD level at the University of Zurich. On graduating in 1976, he was curious to learn about China, and took up a job teaching Chinese engineers at a university in Beijing.
+He was surprised to find that his monthly salary of 480 yuan, a tenth of that earned by his Swiss peers, was equal to Mao Zedong's salary and to the annual income of an average urban Chinese family at the time.
+"I didn't care how much I earned but treasured the opportunities to have historic experiences," recalls Boller, 66, in his two-story home on a slope facing the picturesque Zurich Lake.
+Christmas decorations are still up in the house well past the festive season and Boller's wife says it is a tradition to keep them up until after the Spring Festival (Chinese New Year). To the left of the Christmas tree is a miniature Chinese teahouse too.
+Boller's wife is Amy Wu, a Swiss citizen of Chinese descent. The couple met in the US in the 1970s and married in 1982. They are proud of their Western-Eastern cultural mix and put their names together on business as Boller-Wu.
+Following his teaching job, Boller became the first accredited Swiss journalist in Beijing, reporting on China's reform and opening-up drive for Western media, which badly needed experienced China hands.
+"I filled such a vacancy and was hired by several Swiss media companies until 1983," Boller says.
+In those days it was rare to see any foreign faces in Beijing, and Boller could put a name to almost every one of them in the capital.
+"We were only a few foreign correspondents at that time, and life was less hectic, if you want," Boller says.
+"We could dedicate ourselves to investigating the ongoing changes of daily life, the appearance of commodity markets in Beijing."
+Boller witnessed the historic changes taking place across China in the late 1970s and early 1980s, and recalls interviewing Beijing's first private tailor and restaurant owners, as well as talking with farmers in Anhui and Sichuan provinces who had disbanded communes to set up businesses.
+He also wrote about China's first four-star hotel in Beijing and its first joint venture. And he still keeps a clipping of an article he wrote about Zhang Haidi, a young disabled woman who taught herself several foreign languages and is now chair of China Disabled Persons' Federation.
+Boller saw the devastation wrought by the "cultural revolution" (1966-76), which caused untold suffering to millions of people.
+"China as a whole had reached the bottom," he says. "It was unbelievable and incredible."
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

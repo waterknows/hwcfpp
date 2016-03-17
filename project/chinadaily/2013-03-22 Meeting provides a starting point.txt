@@ -1,0 +1,31 @@
+
+Durban summit is bloc's first on continent, and members hope to deepen involvement in Africa
+As incomes and purchasing power in emerging markets rise, Africans stand to benefit greatly from the continent's membership of the BRICS grouping, a financial analyst says.
+"On the whole, annual income and purchasing power of billions of people in the BRICS markets is on the rise, creating increased demand not only for basic goods but also for higher priced goods," says Christian Wessels, a senior analyst of Roland Berger Strategy Consultants.
+As the bloc prepares to hold its first summit in Africa, there is an expectation that the meeting will provide an opportunity for BRICS members and individual African countries to form deeper relationships.
+On March 19 President Xi Jinping said China would continue to staunchly support development in Africa, and that BRICS had become an important force in safeguarding peace and promoting development.
+"Cooperation among BRICS countries can help build a more balanced world economy, improve global economic governance and promote democracy in international relations," Xi said.
+Wessels says consumer spending in the developing world will nearly double over the next eight years, from $14 trillion to $22 trillion. Per capita consumer spending is forecast to reach $3,319 a year by 2020.
+"In particular, BRIC countries, excluding South Africa, will see consumer spending grow from $7 trillion to $11 trillion, contrasted with Mercosur countries (South America) from $2 trillion to $3 trillion, and in the Middle East and North Africa from $1 trillion to $2 trillion. Per capita consumer expenditure is forecast to grow at least 3 percent annually in each region by 2020."
+Wessels says this gives Africa the chance to step up its economic growth as Western economies languish. What Africa has going for it are a rising population, improved education and an expanding middle class, he says.
+South Africa and Nigeria are particularly capturing the world's interest "because of their promising economic future", he says, adding that by 2030 the continent's share of global exports will exceed 7 percent, compared with 2.8 percent today.
+Wessels says Africa has the smallest share of the global middle class, but that will grow by more than 110 million people over the next 20 years to 180 million by 2030, accounting for 5 percent of the global middle class.
+"In the coming two decades, consumers in emerging countries will indeed experience change at rates unparalleled in economic history," he says.
+"The range of goods and services available, the extent of the urban environment, and for many the size of disposable incomes will grow at a speed surpassing that seen in all previous major economic phases."
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

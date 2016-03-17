@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+
+
+Hans Boller, vice-president of the Swiss-Chinese Chamber of Commerce, and his wife Amy Wu want to share their Chinese experience with others. Xie Songxin / China Daily
+
+
+
+
+Hans Boller shares his personal findings on Chinese culture and development
+
+F ollowing a night-time arrival into the blackness of Beijing in 1976, Hans Boller has dedicated himself to telling the world about China 
+
+"It was dark," said Hans Boller, describing his memory of first arriving in Beijing in 1976, a few weeks after Mao Zedong's death. The only thing illuminated outside the window of his Swiss Airlines flight was Chairman Mao's portrait. And the darkness continued beyond the airport, as he was driven along small roads in a car with dim lights to his accommodation. When he woke the next day and stepped outside, he found he was in a land of bicycles.
+Born in 1947, Boller grew up in Switzerland and studied economics and social sciences to PhD level at the University of Zurich. On graduating in 1976, he was curious to learn about China, and took up a job teaching Chinese engineers at a university in Beijing.
+He was surprised to find that his monthly salary of 480 yuan ($77), a tenth of that earned by his Swiss peers, was equal to Mao Zedong's salary and to the annual income of an average urban Chinese family at the time.
+"I didn't care how much I earned but treasured the opportunities to have historic experiences," recalls Boller, 66, in his two-story home on a slope facing the picturesque Lake Zurich.
+Christmas decorations are still up in the house well past the festive season and Boller's wife says it is a tradition to keep them up until after the Spring Festival (Chinese New Year). To the left of the Christmas tree is a miniature Chinese teahouse too.
+Boller's wife is Amy Wu, a Swiss citizen of Chinese descent. The couple met in the US in the 1970s and married in 1982. They are proud of their Western-Eastern cultural mix and put their names together on business as Boller-Wu.
+
+
+
+
+Previous Page
+1 2 3 Next Page
+
+Previous Page
+1 2 3 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

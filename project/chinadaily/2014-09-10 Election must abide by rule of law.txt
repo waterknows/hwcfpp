@@ -1,0 +1,24 @@
+
+Nominating Committee for selection of HK's chief executive candidates as set out in the Basic Law best suits current conditions
+The Standing Committee of the National People's Congress has explicated the method for the election of Hong Kong Special Administrative Region's chief executive in 2017 through universal suffrage. On Aug 31, it ruled that all candidates for chief executive must receive more than half of the votes from the Nominating Committee before they are put forward for election.
+Given the bitter arguments over constitutional reform in Hong Kong, there are still questions lingering over the NPC Standing Committee rule. Actually there are two different views about how to select candidates for Hong Kong's chief executive through universal suffrage. One view proposes that the Basic Law, which came into effect 17 years ago, clearly stipulates the relevant procedures for the election of the chief executive by universal suffrage, and universal suffrage should remain within the bounds set by the Basic Law. This view has continuous consistency. The central government actively supports this view and hopes that the development of the democratic political system in Hong Kong will move forward based on this.
+The other view holds that universal suffrage based on the Basic Law is not true universal suffrage, because the procedure whereby the Nominating Committee decides which tow or three candidates are put forward for the election will "eliminate" the pan-democracy candidates. They insist on implementing what they call "true democracy" according to a so-called international standard. But this view disregards the relevant regulations of the Basic Law.
+According to the current system, the constitutional reform of electing Hong Kong's chief executive by universal suffrage can be implemented only when more than two-thirds of the Hong Kong Legislative Council members approve the reform plan. The members of the Hong Kong pan-democracy group are the key minority in Legislative Council. If they use their veto during the Legislative Council's vote, it is possible that the election of Hong Kong's chief executive by universal suffrage will end in no result.
+The reason that the central government does not accept the Hong Kong pan-democrats' so-called international standard of party nomination or civil nomination and insists that the chief executive candidates should be nominated by the Nominating Committee is because it is a procedural requirement that is clearly defined in the Basic Law. Hong Kong is a society governed by the rule of law. If the central government does not adhere to the procedure stipulated by the Basic Law, it violates the principle of rule of law, which will not gain recognition in Hong Kong. Strictly following the Basic Law is the only choice to respect the principle of rule of law in Hong Kong.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

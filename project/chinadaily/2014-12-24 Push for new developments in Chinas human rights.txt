@@ -1,0 +1,22 @@
+
+Editor's Note: The following is an excerpt from the speech by Cai Mingzhao, minister of the State Council Information Office, at the Mid-term Assessment Meeting on the National Human Rights Action Plan of China (2012-15) on Dec 23, 2014.
+In June 2012, with the approval and authorization of the State Council of China, the Information Office of the State Council issued the National Human Rights Action Plan of China (2012-15) (hereafter, called the "Action Plan"). China's second national plan on the theme of human rights, it has received wide attention and loud praise from many, both in China and abroad. For the past two years, under the leadership of the Central Committee of the Communist Party of China and its General Secretary Xi Jinping, the Action Plan has been substantively implemented, and China has accomplished substantial progress on human rights in the course of realizing the Chinese Dream of the great rejuvenation of the Chinese nation.
+First, guided by the Chinese Dream of the great rejuvenation of the Chinese nation, China has made new progress in its human rights development.
+Since the 18th CPC National Congress was convened, the CPC Central Committee and General Secretary Xi Jinping have led the Party and people of all ethnic groups nationwide on a new journey toward deeper reform, opening-up and modernization. Correspondingly, the country's approach to human rights has entered a new era. Soon after the new CPC leadership took the helm, Xi Jinping, general secretary of the CPC Central Committee, first expounded the concept of the Chinese Dream, which calls for the rejuvenation of the Chinese nation during his visit to the "Road to Rejuvenation" exhibition at the National Museum of China. The Chinese Dream, above all, is the dream of the people: Xi has defined the Chinese Dream as the aspiration and realization of people enjoying better education, steadier employment, more satisfactory incomes, more reliable social security, better medical services, more comfortable living conditions and a more beautiful environment. Xi has also defined the dream as helping our children to grow better, work better and live better, while allowing everyone to develop himself or herself, make contributions to society, achieve a vibrant life, participate in achieving the dream, and share the fruits of development. The Chinese Dream not only vividly summarizes and reflects the goals of China's human rights project, but also points to a new direction and infuses new meaning into the cause of human rights in China, showcases the new prospects for China's human rights advancement and provides a potent source of motivation and momentum for the implementation of the Action Plan.
+
+
+
+
+Previous Page
+1 2 3 4 5 6 7 Next Page
+
+Previous Page
+1 2 3 4 5 6 7 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

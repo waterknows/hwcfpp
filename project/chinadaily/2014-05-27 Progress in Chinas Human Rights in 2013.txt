@@ -1,0 +1,35 @@
+
+Editor's note: The Information Office of the State Council, or China's Cabinet, issued a white paper on Progress in China's Human Rights in 2013 on Monday. Following is the full text filed by the Xinhua News Agency.
+Foreword
+In 2013 China made progress in its human rights undertaking while advancing on the course of the Chinese Dream, the great rejuvenation of the Chinese nation.
+In that year, the Communist Party of China (CPC) and the Chinese government, based on China's prevailing conditions and reality, and aiming at promoting social fairness, justice and the people's well-being, comprehensively deepened the reform, promoted various undertakings in the economic, social and cultural fields, and safeguarded the people's rights to equal participation and development, so that the fruits of development would benefit the people in a better and more equal way. China's development provides all Chinese people with the opportunities to develop themselves, serve society, make successes in their life and realize their dreams. China is now reaching for a higher goal in its human rights undertaking.
+In 2013 China's human rights undertaking made remarkable achievements in the following aspects:
+The people's living standards have risen steadily, as China continuously improves the urban and rural residents' clothing, food, accommodation, and transportation conditions, further equalizes basic public services, and better protects the people's rights to subsistence and development.
+The world's largest social security system has taken shape, and both urban and rural residents, especially people in straitened circumstances, can live in dignity, with their basic living conditions better ensured.
+China's democracy and legal system have been further strengthened. China's rural and urban areas for the first time realized the same ratio of deputies to the represented population in the election to the National People's Congress (NPC) deputies in 2013. China also took an important step forward in building a clean government, as it has restricted the use of power and cracked down on corruption.
+China has continuously constitutionalized consultative democracy, and promoted the sound development of grassroots democracy. Chinese citizens now have diversified ways to realize their democratic rights according to law and in an orderly manner, and the country's political life has become more democratic.
+China has further upgraded its governance system and capacity. The exercise of power is more procedure-based, government work is more transparent, and public freedom of speech is better ensured.
+China has abolished the system of reeducation through labor, and adopted multiple measures to curb the practice of extorting confessions by torture and prevent unjust, false and erroneous litigation. In order to better protect the citizens' rights to life, health and personal freedom, China has also made great efforts to guarantee food and pharmaceuticals safety, and to prevent major accidents.
+China has continued to provide preferential policies for ethnic minorities, and made sure they can enjoy and exercise their rights according to law. China has also accelerated the comprehensive development of various social, economic and human rights protection undertakings in regions inhabited by ethnic minorities, including the Xinjiang Uygur and Tibet autonomous regions.
+China has entered a new stage in efforts to help the disabled. With their various rights well protected and an improved public service system in place, disabled people are in a better position to participate in social life as equals.
+China has speeded up its ecological progress, increased financial input, strengthened environmental protection, punished environmental crimes, and is striving to build a beautiful China.
+The pursuit of the improvement of human rights never ends, for there is always room for better human rights conditions. China's progress in its human rights undertaking is there for everybody to see, and every unbiased and reasonable observer can draw a fair conclusion. At the same time, China is still a large developing country, with conspicuous problems of unbalanced, uncoordinated and unsustainable development. Therefore, greater efforts are needed to bring higher standards to human rights protection. It has been proved that only by adhering to the socialist path with Chinese characteristics can China's human rights undertaking achieve better development, and the Chinese people realize more comprehensive development.
+
+
+
+
+Previous Page
+1 2 3 4 5 6 7 8 9 10 Next Page >>|
+|<<
+Previous Page 11 12 13 Next Page
+
+Previous Page
+1 2 3 4 5 6 7 8 9 10 Next Page >>|
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

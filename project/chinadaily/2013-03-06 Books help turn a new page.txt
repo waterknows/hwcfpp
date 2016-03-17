@@ -1,0 +1,51 @@
+
+
+
+
+
+
+
+
+Inside the bookshop of the CPC's Party School. [Photo by Wang Jing / China Daily]
+
+
+
+
+Great works of literature guide officials in formulating policies for the future, reports Tang Yue in Beijing.
+
+Among Beijing's 100-plus bookstores, one of the most important is also one of the smallest and least prepossessing.
+In the rather shabby, old bungalow of around 60 square meters, there is no electronic signboard, so the "recommended" and "bestseller" lists are handwritten.
+But located inside the Party School of the Central Committee of the Communist Party of China, where the country's leaders-in-waiting are trained, the bookstore helps to shape the minds of the political elite and therefore plays a part in determining the country's future.
+There is no way visitors can miss a conspicuous advertisement at the entrance. The notice is written in the traditional style with a brush, and the large black characters on yellow paper proclaim: "The Old Regime and the Revolution, recommended by Wang Qishan, is on sale now."
+It's been little more than three months since Wang, the new leader of China's top disciplinary watchdog and also one of the seven members of the nation's highest decision-making body, suggested that officials and experts read historian Alexis de Tocqueville's account of the French revolution of 1789-99, written some 50 years after the events it describes.
+The book has become increasingly popular recently. Twenty different versions are available on Amazon's Chinese site, one of the country's most popular online bookstores, and 18 of them were published after Wang's recommendation. The bookshop also houses related works such as A Guide to Reading The Old Regime and the Revolution and Why Do We Read The Old Regime and the Revolution?
+"It has been quite hot, but that came as no surprise. Any book recommended by the leadership is always very popular with the officials who study here," said a sales clerk at the store.
+She cited the examples of The Meditations by the Roman emperor Marcus Aurelius and The Theory of Moral Sentiments by the 18th-century Scottish economist and philosopher Adam Smith, both of which were endorsed by Premier Wen Jiabao.
+Open minds
+Zhen Xiaoying, former vice-president of the Central Institute of Socialism, said the books recommended by the leaders reflect their thoughts about reality, and their political beliefs. The books also serve to provide theoretical support for the politician's political stance and policy.
+Tocqueville wrote, "It is almost never when a state of things is the most detestable that it is smashed, but when, beginning to improve, it permits men to breathe, to reflect, to communicate their thoughts with each other, and to gauge by what they already have the extent of their rights and their grievances. The weight, although less heavy, seems then all the more unbearable."
+Zhen offered her own analysis of Wang's recommendation. "While the recommendation hints that we have to accelerate the pace of political reform, it also reminds us to be cautious and go step by step because the price of revolution is very high, as shown in the book."
+She said the recommendation may be open to differing interpretations, but it is certainly a positive note that China's leaders are more open-minded and keen to learn from the outside world.
+"When they realize a challenge in reality, they don't just look for answers from Chinese history; they also turn to the history of global civilization. China is young in terms of democracy and party politics and there is still a lot for us to learn from the West."
+Bi Yantao, director of the Center for Communication Studies at Hainan University, said the recommendation of The Old Regime and the Revolution could be seen as a way of preparing public opinion for political reform and a fight against corruption.
+"But what is needed is not just lip service; it is action that makes a difference," he said.
+Compared with their Western counterparts, Chinese leaders tend to display their personal tastes less frequently. Thus, the outside world always tends to make a guessing game out of any obscure clues, he added.
+"Politicians never say things for no reason at all. It (their taste in books) could be seen as a political signal, but we can't over-interpret it," he said. "I even read a story about how one can judge the political stance of a Chinese leader, left or right, by their hairdo. Another one split the Party into factions depending on different styles of tie. These ideas are ridiculous.
+"However, recommending a book or displaying one's personal taste may do some good for a person's political image, even though it's not their purpose to do so."
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

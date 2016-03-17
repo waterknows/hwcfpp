@@ -1,0 +1,24 @@
+
+History rarely moves in ways simple enough to be wholly comprehensible when the events take place. What observers and commentators make of what is happening in Hong Kong is not, in any complete sense, what history will eventually make of it.
+So the question becomes what is to be concluded about Hong Kong right now, in the unfocused, semi-darkness of the moment?
+Some observers view the struggle of the "pro-democracy" street protesters as the classic diorama of good guys against bad guys. This is obviously simplistic but emotionally appealing. Others view the recent turmoil as the breakdown of law and order and the erosion of a decent respect for legitimate authority. This is factually correct, but is emotionally unappealing. And it is beside the point, which is: Where do the central government and Hong Kong go from here and in what civilized manner do they do it?
+After former British prime minister Margaret Thatcher's government accepted that it had to return Hong Kong to China, then-Chinese leader Deng Xiaoping imagined a Hong Kong embraced without rancor or fuss into the overall Chinese family, even if it meant that the spoiled prodigy would incessantly demand special treats. Which it has more or less.
+Were Deng alive today, would he take the rod to the spoiled child? Or shake his head knowingly, the uncle of eternal patience? So far, at least, the central government has mostly left the official reaction to the local Hong Kong authorities, even as students, among others, continue to block in the streets, freeze traffic, disrupt the mature economy and disrupt domestic tranquility. Would such activity in public space be so patiently and lengthily permitted in Los Angeles where I live?
+The Chinese central authorities are understandably perturbed by the protest against its judgment on the rules for the 2017 election for the city's chief executive, in which everyone in the Hong Kong Special Administrative Region will be able to vote but not everyone will be able to run. Making the rules is within the central government's sovereign power.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

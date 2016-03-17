@@ -1,0 +1,25 @@
+
+
+Violence in Egypt has escalated since the army moved ousted president Mohamed Morsi to a secret location, where he is being held on accusations for having "conspired" with Gaza-based Hamas to carry out "hostile acts" inside Egypt. The bloodshed in late July, which followed by nationwide protests and clashes between Morsi's supporters and opponents in Alexandria, has raised concerns worldwide.
+The day Morsi was ousted, US President Barack Obama urged the Egyptian military to "move quickly and responsibly to return full authority back to a democratically elected civilian government". During his visit to Cairo in mid-July, US Deputy Secretary of State William Burns had said that despite concerns over the chaos in Egypt, Washington believed that the ongoing transition is another opportunity for the country to create a democratic state that would protect human rights and the rule of law, and improve the livelihood of its people.
+Washington's recognition of the so-called second revolution in Egypt and its refusal to call Morsi's ouster a coup may make the Muslim Brotherhood the biggest loser now, but in the long run, the US may have to pay a heavy price for that.
+The democratic values and human rights the US has been championing around the world and its status as a leading defender of democracy have been questioned because of the double standard it adopts on democracy and the fight against terrorism in the Middle East. Many have criticized Washington for playing the puppet master in Morsi's administration but refusing to condemn the military's action.
+A Middle East Online article, posted on July 23, says Morsi's ouster has put the US in a dilemma, which indicates the contradiction between the Obama administration's rhetoric and its policy to balance the promotion of democracy with perceived short-term interests.
+The widespread mistrust in the US and the democratic values it promotes will undermine its soft power and, predictably, it will face increasing opposition when it tries to implement its regional strategy. As Sallama Shaker, visiting professor at Yale University and former Egyptian ambassador said recently: "Egypt is the largest country in the Arab world, and how it evolves politically and economically will have enormous impact on regional stability, serving as a template for other countries in the region."
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

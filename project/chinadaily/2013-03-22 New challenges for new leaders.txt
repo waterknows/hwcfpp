@@ -1,0 +1,69 @@
+
+
+How can China realize "the Chinese dream" which President Xi Jinping called "the great rejuvenation of the Chinese nation?" With the formation of China's new government, led by Xi and Premier Li Keqiang, it is appropriate to describe this grand vision and to set forth the challenges that must be met.
+The Chinese dream is a moderately well-off (xiaokang) society, such that all citizens, rural and urban, enjoy high standards of living in all aspects of life and society. This includes doubling 2010's GDP per capita by about 2020 (approaching $10,000 per person), completing urbanization by about 2030 (roughly 1 billion people, three-quarters of China's population), achieving modernization (China regaining its position as a world leader in science and technology as well as in economics and business), and appreciating Chinese civilization and culture (China participating in all arenas of human endeavor).
+In making this vision a reality, China's new leaders face many challenges. I here list 35 such challenges (there are more), catalogued under five categories, so that global readers can grasp their scope and complexity and can assess their difficulties and progress.
+Socio-economic
+Economic and social disparities. In little more than 30 years, China has gone from being one of the world's most equal countries (though everyone was equally poor) to one of the world's most unequal countries (though more people have been brought out of poverty than at any other time in history). The gaps between the rich and the poor in China are now larger than those in India and the US. Farmers demand higher income and better social services. Urban workers demand higher pay and better working conditions. The residency (hukou) system that restricts migrant workers from accessing healthcare and education has become untenable and destabilizing.
+Macroeconomic transformation. China must shift to a consumption-driven economy, more dependent on people enjoying higher standards of living and less dependent on government-financed fixed investment and an unsustainable surplus of exports over imports.
+Microeconomic transformation. China's old economic model of low-cost, cheap-labor, assembly-type manufacturing - which generated China's remarkable development - has reached the end of its historic cycle. To pay workers higher wages, Chinese companies must produce higher gross margins by providing more value-added benefits, via technology, branding or service. (Companies with high gross margins are much harder to build than those that are based on low cost and cheap labor.)
+Market versus government. How should China's resources be allocated optimally? Where can the market function more efficiently and where can government? The obstacles to rational analysis today are not ideological but vested interests. (Most economists favor more market mechanisms, but arguments resisting reform are three-fold: market forces increase social disparities; market economies are more easily disrupted by financial turmoil [for example, 2008-2009]; and a strong government preserves China's socialism.)
+State-owned enterprises. What is the proper role of China's large, powerful SOEs? How much monopoly power should they enjoy? Some view SOEs as a bulwark of government control and a symbol of socialism. Others as a blockage of reform and a hindrance to productivity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+President Xi's First Overseas Visit in Spotlight:
+ BRICS and Mortar
+ New institution set to reflect growth goals
+ Meeting provides a starting point
+ Building BRICS of growth
+ President's first trip takes in Russia, Africa
+More about China's new leadership:
+ New premier sets out strategic blueprint
+ Li's quotes
+ Europe looks forward to new era
+ Former PM's China vision
+ New challenges for new leaders
+ The future is in their hands
+ A step in the right direction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous Page
+1 2 3 4 Next Page
+
+Previous Page
+1 2 3 4 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

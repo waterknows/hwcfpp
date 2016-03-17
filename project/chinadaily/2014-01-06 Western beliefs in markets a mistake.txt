@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ken Livingstone says he would feel more comfortable with China's leaders being in charge of the world's largest economy than those of the United States.
+
+The 68-year-old former London mayor believes they are likely to offer a saner approach to global leadership if China's economy takes over the top spot some time over the next decade.
+"When you watch (US President Barack) Obama speak, it's all about how great America is, 'God Bless America' and all that as well as claiming to be the defenders of democracy. China's leaders just aren't that sort of mad. They are much more balanced," he says.
+Livingstone was speaking over a late lunch of a bowl of soup in the kitchen of his terraced house in northwest London.
+He says China's leaders have typically had experience of running major provinces and cities, including Chinese President Xi Jinping and Premier Li Keqiang.
+"We get all these people who had run nothing, such as (former British prime minister Tony) Blair who hadn't even chaired a council committee meeting; (British Prime Minister David) Cameron, who was just a PR guy; and Obama, just a good speech maker," he says.
+"Germany is more like China. You don't get to run Germany unless you have run a lander (a state)."
+It is now more than five years since Livingstone's eight-year tenure as London mayor came to an end when he lost the mayoral election to the current incumbent Boris Johnson.
+For someone who held one of the top political jobs in the country, he lives in a surprisingly ordinary neighborhood, but he says no one bats an eyelid when he takes his dog for regular walks.
+"I have been living here for 25 years so everyone is quite used to me by now."
+He now spends a lot of his time not just tending his own garden but also those of his two neighbors, both of whom are disabled.
+"I can be in the garden even in January when it is snowing away. My neighbors' gardens haven't had much done to them for 15 to 20 years, so there is plenty of work. I actually sift all the soil by hand to preserve all the fungi and bacteria."
+Despite achieving high office largely on the strength of his own personal following in his home city (in his first term he stood against the Labour candidate as an independent), he regards his political career as something of a failure.
+"Of course I never got to be prime minister. Now I think with the state Britain is in, if I had only got to be prime minister we could have avoided all of this. But that is because I approach things logically. Most politicians don't," he says.
+Livingstone first went to China in the early 1990s and then went again in 2006 when he led a 73-strong delegation, including the then chairman of Chelsea Football Club Peter Kenyon, the pop group Girls Aloud and former British Olympic runner Lord Coe. It was on the same trip he opened London's offices in Beijing and Shanghai to promote tourism and investment.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

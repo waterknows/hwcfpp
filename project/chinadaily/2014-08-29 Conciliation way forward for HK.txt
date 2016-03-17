@@ -1,0 +1,23 @@
+
+2017 reform package can be viewed as the starting point for a joint political venture for the SAR and the central government
+While the Basic Law and the "One Country, Two Systems" policy provide a framework for the implementation of universal suffrage for the chief executive election in 2017, recent tensions between "Occupy Central" and anti-"Occupy" supporters are worrying. Before the Standing Committee of the National People's Congress announces its decision on electoral reform at the end of August, the central government and the "pan-democrats" must work hard to overcome the present political stalemate, which has polarized Hong Kong society and may do long-term damage to the Special Administrative Region's cohesiveness.
+Triggered by the opposition camp's collection of 800,000 of their supporters' signatures and continued threats to escalate their protests if the central government doesn't meet their demands on a nomination threshold for candidates, the anti-"Occupy" supporters responded by gathering 1.5 million signatures (250,000 are said to have joined the Aug 17 rallies). Judging from the numerical differences between the two sets of signatures, if an election were held today, a "pan-democrat" candidate would not win. Continued verbal threats will only stiffen Beijing's resolve not to yield. It will also upset many ordinary Hongkongers. They are concerned about the polarization of society and the threat to their livelihoods. Moreover, the "pan-democrats" do not appear to have earned sufficient trust from the central government in regard to their support for the One Country principle.
+While there are apparently no universal or international standards of democracy, there is a good guiding principle on loving the country. This was set forth on Jan 20, 1961, when then-US president John F. Kennedy said, in his iconic inaugural address, that his fellow Americans should "ask not what your country can do for you, ask what you can do for your country". JFK's appeal still resonates with people. It is reasonable, therefore, to question the arguments of the "pan-democrats". If the current election package were to be accepted, would the Hong Kong government be full of pro-Beijing factions? Presumably this would be harmful to Hong Kong's interests? This only adds to the current confusion. Are the "pan-democrats" implying that pro-Beijing politicians are "incompetent" and would not take care of Hongkongers' interests? Where is the proof that the opposition camp can field more competent chief executive candidates?
+However, there is a constructive way for the two sides to reach a compromise. This would accommodate the interests of the central government and the SAR.
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+

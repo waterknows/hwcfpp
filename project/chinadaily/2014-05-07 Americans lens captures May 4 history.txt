@@ -1,0 +1,37 @@
+
+
+
+
+
+
+
+
+
+American photographer Sidney D. Gamble (1890-1968)captured valuable historical moments with his camera during his stay in China in the early 1900s. Photo provided to China Daily
+
+
+
+
+A photo exhibition in Beijing marks the 95th anniversary of the May Fourth Movement, an important cultural and political movement in modern China. The images were taken by American photographer Sidney D. Gamble (1890-1968), grandson of James Gamble, one of the co-founders of Proctor & Gamble.
+"In the early 1900s, photos were rarely seen in China, and few survive today," says Guo Junying, curator of the memorial. "Gamble captured valuable historical moments from the perspective of a sociologist and preserved those images well."
+The May Fourth Movement started with mass student protests on May 4, 1919, against the government's response to the Treaty of Versailles that imposed unfair penalties on China and undermined the country's sovereignty. It then began a national campaign to overthrow the feudal society and promote scientific and democratic ideas.
+Hosted by the New Culture Movement Memorial of Beijing and Duke University Libraries, the exhibition displays 143 photographs showing China's May Fourth Movement and people's lives at that time.
+The photographs include students delivering speeches, being arrested and protesting during the movement in 1919.
+"They open a window for Chinese to better understand their history and complement existing historical documents for that period," Guo says.
+Gamble worked as secretary for the Beijing Young Men's Christian Association, witnessing and documenting this pivotal time. In 1908, he began taking pictures in China during the first trip here with his family. He returned three more times between 1917 and 1932 and traveled widely, collecting data for socio-economic surveys and photographing urban and rural life, public events, architecture, religious statuary and the countryside.
+
+
+
+
+Previous
+1 2 Next
+
+Previous
+1 2 Next
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+

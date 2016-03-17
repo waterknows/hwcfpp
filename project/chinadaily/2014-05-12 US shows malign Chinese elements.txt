@@ -1,0 +1,24 @@
+
+The rise of China has prompted US film and TV series directors to include Chinese elements in their works. The way China is portrayed in American TV series - one of the most representative cultural products of American society, values and ideologies - largely reflects mainstream American views about China's political system, social issues, economic development model and its rising global status.
+Chinese elements are evident in American movies and TV programs in three forms. First is the increasing presence of actors and actresses of Chinese origin in US films and TV series. Stereotypes of Chinese, like the murderous Dr Fu Manchu and the benevolent and heroic detective Charlie Chen, have been replaced by a new generation of Chinese-Americans, such as the characters played by Lucy Liu, making Chinese people more modern and diversified in their looks and values. Though largely confined to supporting roles, the Chinese characters have graduated from domestic servants, laundry workers and waiters to scientists in forensic laboratories and research institutions, government officials and highly skilled professionals.
+Second is the rapid growth in the product placement by Chinese brands, which appear in popular shows like The Big Bang Theory and Homeland. This has happened because proactive Chinese enterprises are approaching American producers and screenwriters to get greater exposure for their brands.
+And third is the blending of more China-related plots into US movies and TV programs. This blending, however, has revealed American mainstream prejudice against and misunderstanding of China and its culture.
+"If sent back to China, she will work as a slave in Shanghai." This was what Gabrielle says in Season III of Desperate Housewives of her maid, an illegal immigrant. To even suggest that a person could be forced to work as a "slave" anywhere in today's China, let alone Shanghai which is one of its most dynamic and open cities, is ridiculous. Talking about Chinese society and politics, Gabrielle portrays Shanghai as a poor and remote place, laments the lack of freedom and democracy in China, and says that repatriation from the US to China would be like falling from paradise into hell. Does this mean many Americans still see China as an impoverished and secluded country without democracy and freedom?
+In Season XII of South Park, Eric Cartmen, a plump boy, has a nightmare the night he watches the opening ceremony of the Beijing 2008 Olympics: he sees many Chinese beating drums at the same tempo as in the opening ceremony, their eyes blazing with something close to evil. A scared Eric cries out "the Chinese are gonna occupy the whole world ... America is gonna be defeated by them."
+
+
+
+
+Previous Page
+1 2 Next Page
+
+Previous Page
+1 2 Next Page
+
+
+
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+
+
