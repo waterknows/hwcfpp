@@ -21,7 +21,7 @@ These procedures produce a "China Daily Corpus" with 1472 news articles, and a "
 ### 3.1 General
 
 Time plots of number of articles produced per month: 1) similarity = high correlation in ups and downs, suggesting little gate keeping bias; 2) difference: two peaks for the China Daily, but the second one is probably due to mis-matching (for a political leader from National League for Democracy). 3.1 and 3.2 make use of the pattern that filenames are created with the "date+title" format.
-
+[China Daily](GateKeeping1 _General_ChinaDaily.png)
 ### 3.2 Country Specific
 
 Time plots of number of democracy news related to {China, US and EU} produced per month: 1) similarity = both newspapers seem to treat the other as a big audiance; 2) difference = China Daily covers more proportion of domestic news, probabaly due to the "defense poistion" in the discourse of democracy. 
