@@ -39,7 +39,7 @@ Word counts (cdf) for all tokens in the text excluding stopwords: 1) similarity 
 ### 4.2 TF-IDF 
 
 Term frequency normalized by document frequency: 1) similarity = words such as "government", "political" are used quite often in both texts; 2) difference = China Daily has a higher TF-IDF in general, suggesting that it is more focused on certain concepts; 3) difference = words such as "law", "development", "central" are frequently used only by China daily, mirroing the soceital belifs specific to China. IDF scores are trained from 1000 news articles randomly selected from NLTK.movie review corpus.
-[Graph: China Daily](Coverage2_tfidf.png)
+[China Daily](Coverage2_tfidf.png)
 
 ## 5. Statement
 
@@ -51,7 +51,7 @@ The number of articles with Positive/Negative sentiment when the new is related 
 ### 5.2 Network
 
 Network graphs of how certain words (nouns/adjs) are related within all the sentences of a corpus: 1) similarity: both corpus covers similar key words; 2) difference: there are significant differences in how the key words interact with each other. For China Daily, the central key noun (the biggest red circle) is "govenrment", surrounded by words like "law", "economy", "disobedienc", "society", "illegal" showing a "top-down perspective". On the other hand, the New York Times doesn't have this hierarchy--it has multiple central key words with equal importance such as "protestors", "students", "government", "police". Combining with words like "police", "communist", "think", "say", these words structure indicate a bottom-up perspective for political movements. 
-[Graph: China Daily](Statement2_network_ChinaDaily.png); [Graph: The New York Times](Statement2_network_Nytimes.png)
+[China Daily](Statement2_network_ChinaDaily.png); [The New York Times](Statement2_network_Nytimes.png)
 
 Notes on the network:
 The case studied here is the 2014 Hong Kong protest/umbrella movement, which is a sit-in street protests from 26 Sep to 15 Dec 2014. The dataset is comparised of related news in Oct 1st-31th, 2014 (67 news from China Daily, 53 from Nytimes). Using Network X, there are mainly 5 steps to create the network graph: 1) filter words from sentences; 2) tag words by Named Entity Recognition; 3) pull out nouns/adjs relation within each sentence; 4) generate edges with NetworkX; 5) output centrality score. Centrality scores can be used wit further applications, such as generating a metric to measure texts similarity. And we can use text similarity to show if newspaper have developed its own writing style to report events.
