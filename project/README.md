@@ -61,7 +61,7 @@ All in all, we can see that although both China Daily and the New York Times cov
 
 
 
-Note: For section 2, please refer to codes in [China Daily](project-chinadaily.ipynb) and [The New York Times](project-nytimes.ipynb); the analysis parts section 3-5 are covered in [here](project-analysis.ipynb).
+Note: Codes for section 2 can be viewed here: [China Daily](project-chinadaily.ipynb) and [The New York Times](project-nytimes.ipynb). Codes for section 3-5 can be viewed from [here](project-analysis.ipynb).
 ```python
 
 ```
