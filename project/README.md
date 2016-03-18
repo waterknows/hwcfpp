@@ -26,7 +26,7 @@ Time plots of number of articles produced per month: 1) similarity = high correl
 ### 3.2 Country Specific
 
 Time plots of number of democracy news related to {China, US and EU} produced per month: 1) similarity = both newspapers seem to treat the other as a big audiance; 2) difference = China Daily covers more proportion of domestic news, probabaly due to the "defense poistion" in the discourse of democracy. 
-[Graph: China Daily](GateKeeping2 _Country_ChinaDaily.png); [The New York Times](GateKeeping2_Country_Nytimes.png)
+[Graph: China Daily](GateKeeping2_Country_ChinaDaily.png); [The New York Times](GateKeeping2_Country_Nytimes.png)
 
 ## 4. Coverage
 
@@ -60,7 +60,8 @@ The case studied here is the 2014 Hong Kong protest/umbrella movement, which is 
 All in all, we can see that although both China Daily and the New York Times covers similar phenomena, the way they cover and interpret the facts can be dramatically diffrenet. And among all the article genres, international political new can be extremely volunarabl toward bias probably due to the lack of check and balance internationally. Just like people, news media are not free from bias. Although it is sometimes more comfortable to stay in one's own center of the world, as a responsible citizen of the world we should be critical about the information around us and be open to opinions from different sides.  
 
 
-Note: For section 2, please refer to codes in [China Daily](project-chinadaily.ipynb) and [The New York Times](project-nytimes.ipynb). For Graph: The New York Times](Statement2_network_Nytimes.png) and project-nytimes.ipynb; the analysis parts section 3-5 are covered in [here](project-analysis.ipynb).
+
+Note: For section 2, please refer to codes in [China Daily](project-chinadaily.ipynb) and [The New York Times](project-nytimes.ipynb); the analysis parts section 3-5 are covered in [here](project-analysis.ipynb).
 ```python
 
 ```
