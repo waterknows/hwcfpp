@@ -55,7 +55,7 @@ Network graphs of how certain words (nouns/adjs) are related within all the sent
 Notes on the network:
 The case studied here is the 2014 Hong Kong protest/umbrella movement, which is a sit-in street protests from 26 Sep to 15 Dec 2014. The dataset is comparised of related news in Oct 1st-31th, 2014 (67 news from China Daily, 53 from Nytimes). Using Network X, there are mainly 5 steps to create the network graph: 1) filter words from sentences; 2) tag words by Named Entity Recognition; 3) pull out nouns/adjs relation within each sentence; 4) generate edges with NetworkX; 5) output centrality score. Centrality scores can be used wit further applications, such as generating a metric to measure texts similarity. And we can use text similarity to show if newspaper have developed its own writing style to report events.
 
-# 6. Conclusion
+## 6. Conclusion
 
 All in all, we can see that although both China Daily and the New York Times covers similar phenomena, the way they cover and interpret the facts can be dramatically diffrenet. And among all the article genres, international political new can be extremely volunarabl toward bias probably due to the lack of check and balance internationally. Just like people, news media are not free from bias. Although it is sometimes more comfortable to stay in one's own center of the world, as a responsible citizen of the world we should be critical about the information around us and be open to opinions from different sides.  
 
